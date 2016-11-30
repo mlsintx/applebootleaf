@@ -1,0 +1,2693 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.95089527896819,
+          29.879855298443225
+        ]
+      },
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH; EA",
+        "indexname": "McGehee, John F.",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010296.0,
+        "utm_north": 3305934.0,
+        "title": "John F. McGehee Home",
+        "county": "Hays",
+        "utm_east": 601309.0,
+        "repaircom": "missing - house being refinished",
+        "markertext_1": "Built in 1889 by John Francis McGehee (1838-1922), a veteran of Hood's Brigade in Civil War. The house, constructed of pine hauled from Bastrop, cypress siding, and handmade brick, is of 19th century Eastlake architectural style.\r\n     Since McGehee sold the property in 1906, it has had several owners. Dr. J. R. Morton, whose wife, Frances M. Morton, was San Marcos' poet laureate, lived here 1920-51.\r\n     The George N. Martindales have owned the house since 1955.\r\n\r\nRecorded Texas Historic Landmark - 1973",
+        "year": 1973.0,
+        "markernum": 10296,
+        "address": "832 Belvin St.",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.95004104760827,
+          29.884297338826478
+        ]
+      },
+      "type": "Feature",
+      "id": 2,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH; IT",
+        "indexname": "McKie, Robert Early",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010297.0,
+        "utm_north": 3306427.0,
+        "title": "Robert Early McKie House",
+        "county": "Hays",
+        "utm_east": 601387.0,
+        "comments": "Structure in very good condition.\r\nJob # 09789",
+        "year": 1989.0,
+        "markernum": 10297,
+        "markertext_1": "This house was built by local contractor H. C. Leffingwell for Robert Early McKie (1875-1948), San Marcos native, attorney, and descendant of area pioneers. Constructed in 1906 for $2,000, the one-story wood frame house reflects the Italianate style in its tall windows, and the colonial revival style in its porch columns. Other prominent features include a pyramidal roof, central hall, and extended bays with wraparound porch.\r\n\r\nRecorded Texas Historic Landmark - 1989",
+        "address": "613 Lindsey",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9503707679451,
+          29.880500855878033
+        ]
+      },
+      "type": "Feature",
+      "id": 3,
+      "properties": {
+        "city": "San Marcos",
+        "code": "CV; PI; WN",
+        "indexname": "Malone, Eliza Pitts",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010298.0,
+        "utm_north": 3306006.0,
+        "title": "Eliza Pitts Malone",
+        "county": "Hays",
+        "utm_east": 601359.0,
+        "comments": "Job # 6861",
+        "year": 1983.0,
+        "markernum": 10298,
+        "markertext_1": "In 1842, Eliza Pitts (1832-1923) and her parents came to Texas from Georgia. She was a charter member of First Methodist Church in San Marcos and served as an active church leader. She married James Lafayette Malone in 1850, and they had sixteen children. During the Civil war, 1861-65, Eliza Malone ran their 1,000-acre farm and sewed for Confederate soldiers. After her husband died, she and her daughter Bramwell Malone built this home in 1909. Although in her eighties during World War I, she contributed to the war effort by knitting socks for soldiers.",
+        "address": "715 Belvin St.",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9562025427347,
+          29.875349279883753
+        ]
+      },
+      "type": "Feature",
+      "id": 4,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH; QA; VC",
+        "indexname": "Malone, James Lafayette and Eliza Pitts, House",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010299.0,
+        "utm_north": 3305430.0,
+        "title": "James Lafayette and Eliza Pitts Malone House",
+        "county": "Hays",
+        "utm_east": 600801.0,
+        "comments": "Job # 00896",
+        "year": 1996.0,
+        "markernum": 10299,
+        "markertext_1": "This house was built in 1891-92 for James L. and Eliza Malone. The Malones, parents of 16 children, were among the early pioneer families in the Stringtown area east of San Marcos. the house was sold out of the Malone family in 1906 following James' death. In 1926, the Victorian Queen Anne dwelling was modified to classical revival style by S. A. and Lellye McGehee Perkins. Returned to its earlier appearance in a 1996 renovation, the house features an L-shaped floor plan with a 2-story porch, chamfered columns with jigsawn brackets, turned balusters, and a gabled shingled roof.\r\n\r\nRecorded Texas Historic Landmark - 1996",
+        "address": "1236 Belvin St.",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.87851927776133,
+          29.95243445749045
+        ]
+      },
+      "type": "Feature",
+      "id": 5,
+      "properties": {
+        "city": "Kyle",
+        "code": "CA; CV",
+        "indexname": "Beef for the Confederacy",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010235.0,
+        "utm_north": 3314043.0,
+        "loc_desc": "Take IH-35 S approx. 3 miles to rest stop area (Mile Marker 211); west side of IH-35",
+        "title": "Beef for the Confederacy",
+        "county": "Hays",
+        "utm_east": 608220.0,
+        "repaircom": "Fair; Refinish",
+        "markertext_1": "Throughout Hays County, 1861-65, as in the rest of texas, beef production for the Confederacy was a major patriotic service. Leading ranchers, called Government Stockraisers, had the duty of supplying the Commissary Department of the Army.\r\n     Hays County, with its well-established cattle industry, had several men designated as C.S.A. Beef Raisers. These included James M. (\"Doc\") Day, John W. Day, Wm. H. Day, and their brother-in-law, Jesse L. Driskill; Wm. Washington Moon; and Ezekiel Nance.\r\n     These men had hazardous work. They had either to fight or detour around Indians, rustlers and enemy patrols. Herds had to swim flooded streams, some with quicksand beds. Wm. H. Day once was almost drowned while swimming a herd across the flooding Brazos. At least two of the Day brothers were in military service as well as supply duty. Moon, a veteran of the Mexican War, and founder of the city of San Marcos, not only was a stockraiser but also joined the 32nd Cavalry. He donated beef to soldiers' families and furnished leather and horse feed to his cavalry company. Beside supplying beef to the quartermasters, Nance manufactured cotton cloth for the Confederacy.",
+        "year": 1965.0,
+        "markernum": 10235,
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.94932868448629,
+          29.88014062614592
+        ]
+      },
+      "type": "Feature",
+      "id": 6,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH; EB",
+        "indexname": "Belvin, Robert Hixon",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010236.0,
+        "utm_north": 3305967.0,
+        "title": "Robert Hixon Belvin Home",
+        "county": "Hays",
+        "utm_east": 601460.0,
+        "comments": "Structure in very good condition.\r\nJob # 4206",
+        "year": 1974.0,
+        "markernum": 10236,
+        "markertext_1": "A portion of this structure was built about 1859 as one of the first schools in San Marcos. the Rev. Robert H. Belvin, president (1870-75) of Coronal Institute, a Methodist school, converted it into a home for his family in 1875. the Rev. J. W. Vest, 1890-1901 owner, enlarged the house. Bought in 1903 by Prof. J. s. brown, of the first faculty of Southwest Texas State University. The house was restored in 1974 by Larry and Diana Murphree.\r\n\r\nRecorded Texas Historic Landmark - 1974",
+        "address": "730 Belvin St.",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.95504575339727,
+          29.875069405083362
+        ]
+      },
+      "type": "Feature",
+      "id": 7,
+      "properties": {
+        "city": "San Marcos",
+        "code": "NB",
+        "indexname": "Belvin Street Historic District",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010237.0,
+        "utm_north": 3305400.0,
+        "title": "Belvin Street Historic District",
+        "county": "Hays",
+        "utm_east": 600913.0,
+        "comments": "Job # 4562",
+        "year": 1976.0,
+        "markernum": 10237,
+        "markertext_1": "This street was named in 1876 for the Rev. R. H. Belvin, president of Coronal Institute, 1870-1875. San Marcos, founded in 1845, was acquiring better architecture by the 1870s. This district now (1976) retains historic structures: the Belvin home, built 1875; the O. T. Brown house, 1878; the houses of J. S. Davis and S. R. Kone, Jr., built 1886; Mrs. A. J. Wood's home, 1888; the homes of J. F. McGehee, H. G. Talmadge and E. L. Thomas, 1889; the J. L. Malone house, 1891; the Joe Earnest house, 1892; the G. T. McGehee house, 1895. Also in this district are distinctive houses of the early 1900s.",
+        "address": "Bishop and Belvin St.",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.84824050443773,
+          29.99198370122574
+        ]
+      },
+      "type": "Feature",
+      "id": 8,
+      "properties": {
+        "city": "Kyle",
+        "code": "BH; EB",
+        "indexname": "Blanco Chapel",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010238.0,
+        "utm_north": 3171672.0,
+        "loc_desc": "intersection of W. Center and Old Stagecoach Rd. in west Kyle, take W. Center (Lime Kiln Rd., CR 225) west",
+        "title": "Blanco Chapel",
+        "county": "Hays",
+        "utm_east": 620358.0,
+        "repaircom": "on private ranch property",
+        "markertext_1": "1865. Built of limestone andhand-split cypress by Ezekiel Nance. Served as church and school until 1880s.\r\n\r\nRecorded Texas Historic Landmark - 1965",
+        "year": 1965.0,
+        "markernum": 10238,
+        "size": "Medallion"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.95023096493412,
+          29.880996064581282
+        ]
+      },
+      "type": "Feature",
+      "id": 9,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH; VC",
+        "indexname": "Brown, O. T.",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010239.0,
+        "utm_north": 3306061.0,
+        "title": "O. T. Brown Home",
+        "county": "Hays",
+        "utm_east": 601372.0,
+        "comments": "Job # 6451",
+        "year": 1981.0,
+        "markernum": 10239,
+        "markertext_1": "Built in 1878, this residence was purchased in 1882 by Georgia native O. T. Brown (1836-1916) and his wife Elizabeth (Belvin) (b. 1854), the daughter of a prominent local Methodist minister and educator, the Rev. R. H. Belvin. Brown, a Civil War veteran and a former prisoner of war, became a successful San Marcos attorney and civic leader. The Brown home, which remained in the family estate until 1967, features Victorian styling with intricate gingerbread detailing.\r\n\r\nRecorded Texas Historic Landmark - 1981",
+        "address": "716 Belvin",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.84270358572401,
+          30.08220084533576
+        ]
+      },
+      "type": "Feature",
+      "id": 10,
+      "properties": {
+        "city": "Buda",
+        "code": "CY",
+        "indexname": "Buda",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010240.0,
+        "utm_north": 3328458.0,
+        "title": "Buda",
+        "county": "Hays",
+        "utm_east": 611531.0,
+        "repaircom": "Fair",
+        "comments": "Job # 6305",
+        "year": 1981.0,
+        "markernum": 10240,
+        "markertext_1": "Originally known as Du Pre, Buda was founded along a line of the International and Great Northern Railroad. Cornelia A. Trimble gave land for the townsite in 1881. The name \"Buda\" was adopted in the late 1880s, although its origin is unclear. According to popular legends, it was either related to Budapest, Hungary, or evolved from the Spanish word for widow, \"viuda,\" and honored the women who cooked in one of the local hotels. Buda was once the site of a variety of businesses, including a theater, skating rink, newspaper, and two banks. The town was incorporated in 1948.",
+        "address": "Ash and Main St.",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.84476679225112,
+          30.083229639111224
+        ]
+      },
+      "type": "Feature",
+      "id": 11,
+      "properties": {
+        "city": "Buda",
+        "code": "BE; CH; CR; RV",
+        "indexname": "Buda Christian Church",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010241.0,
+        "utm_north": 3328570.0,
+        "title": "Buda Christian Church",
+        "county": "Hays",
+        "utm_east": 611331.0,
+        "repaircom": "Fair; Refinish - local effort",
+        "comments": "Job # 8964",
+        "year": 1986.0,
+        "markernum": 10241,
+        "markertext_1": "Organized in 1893, the Buda Christian Church met in the Methodist church building until a church was built on this site in 1903. After it was destroyed in a 1909 storm, this structure was built in 1912. Membership began to decline in the 1940s, and the congregation eventually disbanded. the building was used by various civic groups, and in 1981 housed a non-denominational church. The one-story frame structure features elements of the Italianate and classical revival styles, with a central, inset, pedimented entry; an offset tower; and pyramidal roof.\r\n\r\nRecorded Texas Historic Landmark - 1986",
+        "address": "corner of San Marcos and Live Oak St.",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.84406463219415,
+          30.084721378578934
+        ]
+      },
+      "type": "Feature",
+      "id": 12,
+      "properties": {
+        "city": "Buda",
+        "code": "CH; ME",
+        "indexname": "Buda United Methodist Church",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010242.0,
+        "utm_north": 3328736.0,
+        "title": "Buda United Methodist Church",
+        "county": "Hays",
+        "utm_east": 611397.0,
+        "repaircom": "Poor; Refinish - local effort",
+        "comments": "Job # 6108",
+        "year": 1981.0,
+        "markernum": 10242,
+        "markertext_1": "This church was established in 1880 under the leadership of the rev. Thomas Garrett, one of the pioneer Methodist circuit riders who conducted early services and camp meetings in the area around Mountain City (2 mi. W). It was the first church in the new railroad town of DuPre, later known as Buda, which began here soon after rail lines were completed the same year. The first sanctuary was built at this site in 1882. Members of the congregation have included many pioneer area settlers and prominent leaders of Buda.",
+        "address": "corner of San Marcos and Elm St.",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.87838372108659,
+          29.988492331005233
+        ]
+      },
+      "type": "Feature",
+      "id": 13,
+      "properties": {
+        "city": "Kyle",
+        "code": "OS; PI; TI",
+        "indexname": "Bunton, John Wheeler",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010243.0,
+        "utm_north": 3318039.0,
+        "loc_desc": "corner of Burleson and Center St. (city square)",
+        "title": "John Wheeler Bunton",
+        "county": "Hays",
+        "utm_east": 608194.0,
+        "repaircom": "Poor; Refinish",
+        "comments": "Job # 8121",
+        "year": 1985.0,
+        "markernum": 10243,
+        "markertext_1": "Born in Sumner County, Tenn., John Wheeler Bunton migrated to Texas in 1833. To secure freedom for his new homeland, he signed the Texas Declaration of Independence, helped draft a constitution, and fought in the Siege of Bexar and the Battle of San Jacinto. A lawyer, rancher, and owner of extensive lands, Bunton served in the 1st and 3rd congresses of the Republic of Texas. He lived in Austin and Bastrop counties before settling in Hays County near Mountain City. Originally buried in this county, Bunton was reinterred in the state cemetery in Austin in 1932.",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9293416598948,
+          29.91228573428136
+        ]
+      },
+      "type": "Feature",
+      "id": 14,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH",
+        "indexname": "Burleson, Edward, Jr.",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010244.0,
+        "utm_north": 3309547.0,
+        "loc_desc": "from Old Post Rd., take Lime Kiln Rd. north approx. 1.5 mi. to private entrance",
+        "title": "Burleson Home",
+        "county": "Hays",
+        "utm_east": 603357.0,
+        "repaircom": "Good - plate missing",
+        "markertext_1": "Built in 1850s by Edw. Burleson, Jr., frontier fighter. Birthplace of A. S. Burleson, member of Woodrow Wilson cabinet.\r\n\r\nRecorded Texas Historic Landmark - 1965",
+        "year": 1965.0,
+        "markernum": 10244,
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.93256442041705,
+          29.89390518544848
+        ]
+      },
+      "type": "Feature",
+      "id": 15,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH; OS; TI",
+        "indexname": "Burleson, Edward",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010245.0,
+        "utm_north": 3171672.0,
+        "loc_desc": "in Aquarena Springs Park (SWTSU)",
+        "title": "Burleson Home",
+        "county": "Hays",
+        "utm_east": 620358.0,
+        "repaircom": "Fair",
+        "comments": "Job # 1022",
+        "year": 1967.0,
+        "markernum": 10245,
+        "markertext_1": "Home of Gen. Edward Burleson (1793-1851), officer in Texas War for Independence; vice-president of Republic of Texas, 1841-1844; leader in frontier defense; state legislator.\r\n     Built in 1848 of hewn elm and oak logs, roofed with hand rived boards. Had 2 large rooms, rock chimney at north end. In ruins by 1917, it was restored in 1964 with original chimney stones and logs from buildings of the same period.\r\n\r\nRecorded Texas Historic Landmark - 1967",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.94263810591205,
+          29.880258640598036
+        ]
+      },
+      "type": "Feature",
+      "id": 16,
+      "properties": {
+        "city": "San Marcos",
+        "code": "AA; JA",
+        "indexname": "Calaboose",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010246.0,
+        "utm_north": 3305986.0,
+        "loc_desc": "corner of Martin Luther King and Fredericksburg",
+        "title": "The Calaboose",
+        "county": "Hays",
+        "utm_east": 602106.0,
+        "comments": "Job # 37289",
+        "year": 1990.0,
+        "markernum": 10246,
+        "markertext_1": "Constructed as the first Hays County Jail in 1873, this small brick structure was later an annex for black prisoners. Known locally as the \"Calaboose,\" it became a neighborhood recreation center after the city of San Marcos acquired it in 1885. In the 1940s it was enlarged with a wooden addition and served as a U.S.O. center for black World War II servicemen. In later years, the Calaboose again became a community recreation center.\r\n\r\nRecorded Texas Historic Landmark - 1990",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.948745008622,
+          29.88148957829472
+        ]
+      },
+      "type": "Feature",
+      "id": 17,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH",
+        "indexname": "Caldwell-Kone-Hyatt House",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010247.0,
+        "utm_north": 3306117.0,
+        "title": "Caldwell-Kone-Hyatt House",
+        "county": "Hays",
+        "utm_east": 601515.0,
+        "repaircom": "Marker is mounted inside the building.",
+        "comments": "Structure in good condition, but looks like total artificial siding.\r\nJob # 4365",
+        "year": 1975.0,
+        "markernum": 10247,
+        "markertext_1": "Robert M. Caldwell (1836-84), son of pioneer Texas colonists, built this house in 1869. His wife, Mary, was a sister of Col. E. M. House (1858-1938), advisor to U. s. President Woodrow Wilson. Acquired in 1874 by the Kone family, the residence was occupied by Rebecca Pitts (Mrs. Samuel Reid) Kone (1828-1910). Her son, Edward Rives Kone (1848-1933), was Hays County judge for 26 years before his election as state agriculture commissioner in 1908. Kone heirs sold the home to Mr. and Mrs. Bob Hyatt in 1961.\r\n\r\nRecorded Texas Historic Landmark - 1975",
+        "address": "618 W. Hutchison",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.01588076487404,
+          30.134334524657643
+        ]
+      },
+      "type": "Feature",
+      "id": 18,
+      "properties": {
+        "city": "Driftwood",
+        "code": "CM; CV; ML",
+        "indexname": "Camp Ben McCulloch No. 946",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010248.0,
+        "utm_north": 3334079.0,
+        "loc_desc": "from US 290 W (Austin) take FM 1826 SW approx. 6.3 mi. to entrance to Camp",
+        "title": "Camp Ben McCulloch No. 946, United Confederate Veterans",
+        "county": "Hays",
+        "utm_east": 594791.0,
+        "repaircom": "Fair; Refinish",
+        "comments": "Job # 8623",
+        "year": 1986.0,
+        "markernum": 10248,
+        "markertext_1": "Hays County Confederate veterans and their families gathered for a reunion in the summer of 1896 and formally organized the Camp Ben McCulloch Chapter of the United Confederate Veterans. The gathering took place near this site at the Martin Spring and campsite on Onion Creek. The reunion grounds were purchased by the organization in 1904 and have continued as the site of the annual reunion with the exception of one year during World War I.\r\n     The first commander of Camp Ben McCulloch was Capt. Martin Luther Reed. Other officers elected at the first meeting were Jacob C. Quick, W. M. Weaver, W. W. Davis, W. T. Chapman, Dr. J. M. Pound, and Santa Anna Cruze. The camp was named for Confederate General Ben McCulloch, also a veteran of the Texas Revolution, who died in the Battle of Pea Ridge, Arkansas, in 1862.\r\n     The reunion grounds and other responsibilities were transferred to the care of the Confederate Sons after Burl Nash, the last veteran in the county died in 1947 at age 108. The Sons in turn deeded the camp to the grandsons and other descendants of the Confederate veterans. Reunions continue to be held, illustrating the ongoing impact of the Civil War on Texas history.\r\n     Texas Sesquicentennial 1836 - 1986",
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.94481341859331,
+          29.883136661046823
+        ]
+      },
+      "type": "Feature",
+      "id": 19,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH; BU",
+        "indexname": "Cape, John Matthew",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010249.0,
+        "utm_north": 3306303.0,
+        "title": "John Matthew Cape House",
+        "county": "Hays",
+        "utm_east": 601893.0,
+        "comments": "Job # 7869",
+        "year": 1985.0,
+        "markertext_1": "This late Victorian style home was built in 1902 for the family of John Matthew Cape (1861-1933). Cape owned several cotton gins along the San Marcos River and was instrumental in the organization of San Marcos Utilities and the State Bank & trust Co. He and his wife, Mary Elizabeth Bales (1870-1941). Had 7 children. Outstanding features of the Cape House include its decorative woodwork and the wraparound porch on each story.\r\n\r\nRecorded Texas Historic Landmark - 1985",
+        "address": "316 W. Hopkins",
+        "markernum": 10249
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.886501274388,
+          30.099688046231194
+        ]
+      },
+      "type": "Feature",
+      "id": 20,
+      "properties": {
+        "city": "Buda",
+        "code": "BH; ME; RL",
+        "indexname": "Carpenter, Cyrus Milton",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010250.0,
+        "utm_north": 3330354.0,
+        "loc_desc": "from Buda take RR 967 west approx 4 miles to private gate entrance (cabin on private property)",
+        "title": "Carpenter Home",
+        "county": "Hays",
+        "utm_east": 607291.0,
+        "repaircom": "Fair",
+        "comments": "Job # 4926",
+        "year": 1977.0,
+        "markernum": 10250,
+        "markertext_1": "Cyrus Milton Carpenter (1841-1922) migrated to Hays County in 1854. He became a Methodist minister at age 20 and traveled the state as a circuit rider. In 1865 he built a one-and-a-half story house of hewn cedar logs. Here he brought his bride Charlotte Clayton (1850-1939) after their marriage in 1866, and here they raised their 9 children. A board and batten addition was erected in 1898. The Rev. Carpenter operated a newspaper, the \"Buda Star,\" from 1909 to 1917.\r\n\r\nRecorded Texas Historic Landmark - 1977",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.94280617261683,
+          29.879050771494207
+        ]
+      },
+      "type": "Feature",
+      "id": 21,
+      "properties": {
+        "city": "San Marcos",
+        "code": "AA; LV",
+        "indexname": "Cephas, Ulysses",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010251.0,
+        "utm_north": 3305852.0,
+        "title": "Ulysses Cephas",
+        "county": "Hays",
+        "utm_east": 602091.0,
+        "comments": "Job # 10087",
+        "year": 1989.0,
+        "markernum": 10251,
+        "markertext_1": "(1884-1952) The son of former slaves Joe and Elizabeth Cephas, Ulysses Cephas was born in San Marcos. He was trained at an early age to carry on the blacksmithing trade of his father. Known as \"Boots\" to his friends and family, Cephas eventually owned his own blacksmith shop and was known throughout the county for his skills in shoeing horses and creating superior wagons and farming implements. a respected community leader, he was an active member of the First Missionary Baptist Church and organizer of the San Marcos Independent Band.",
+        "address": "213 Martin Luther King St.",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.94341585470862,
+          29.88309840564985
+        ]
+      },
+      "type": "Feature",
+      "id": 22,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH",
+        "indexname": "Cock, Charles S.",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010252.0,
+        "utm_north": 3306300.0,
+        "title": "Old Cock Home",
+        "county": "Hays",
+        "utm_east": 602028.0,
+        "comments": "Job # 1893\r\nStructure is in excellent condition.",
+        "year": 1968.0,
+        "markernum": 10252,
+        "markertext_1": "Erected 1867 by Chs. S. Cock (1819-1897), farmer and city mayor (1881-1883). Home is built of limestone, elm, pine, and cedar.\r\n\r\nRecorded Texas Historic Landmark - 1968",
+        "address": "Moon Dr. and Hopkins St.",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.94666409809727,
+          29.88242952811525
+        ]
+      },
+      "type": "Feature",
+      "id": 23,
+      "properties": {
+        "city": "San Marcos",
+        "code": "ED; ME; ML",
+        "indexname": "Coronal Institute",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010253.0,
+        "utm_north": 3306223.0,
+        "title": "Site of Coronal Institute",
+        "county": "Hays",
+        "utm_east": 601715.0,
+        "comments": "Job # 1892",
+        "year": 1969.0,
+        "markernum": 10253,
+        "markertext_1": "Established 1868 by educator O. N. Hollingsworth. A private school, it was coeducational and offered military training to boys. So-named because it was a Coronal (crown) atop this hill. In 1870 the Rev. R. H. Belvin bought school, but sold it to the Methodist Church in 1876.\r\n     First structure, of limestone, burned in 1890. A handsome, 3-story building soon replaced it.\r\n     Hundreds of students attended institute, which helped pioneer education in southwest Texas.\r\n     The Methodist Church closed school, 1918. It was sold, 1925, to San Marcos School District.",
+        "address": "500 W. Hutchison",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.1106221360827,
+          29.98595234339547
+        ]
+      },
+      "type": "Feature",
+      "id": 24,
+      "properties": {
+        "city": "Wimberley",
+        "code": "BH; PI",
+        "indexname": "Czichos House",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010254.0,
+        "utm_north": 3317561.0,
+        "loc_desc": "in Pioneer Town Resort; in Wimberley take River Road 1 mi. west of RR 12",
+        "title": "Czichos House",
+        "county": "Hays",
+        "utm_east": 585793.0,
+        "markertext_1": "Of hand-hewn cedar logs chinked with clay. built in Comal County about 1850.\r\n     Home, 1858-1951, family of Dr. Adolph Schlameus, who taught area's first school, near Fischer, for settlers' children and his own 12.\r\n     Moved from Canyon Lake area and restored in 1960.\r\n\r\nRecorded Texas Historic Landmark - 1965",
+        "year": 1965.0,
+        "markernum": 10254,
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9450088246255,
+          29.881297327503177
+        ]
+      },
+      "type": "Feature",
+      "id": 25,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH",
+        "indexname": "Dailey House",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010255.0,
+        "utm_north": 3306099.0,
+        "title": "Dailey House",
+        "county": "Hays",
+        "utm_east": 601876.0,
+        "markertext_1": "--",
+        "year": 1963.0,
+        "markernum": 10255,
+        "address": "411 W San Antonio",
+        "size": "Medallion"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.89900748682287,
+          29.855266437033997
+        ]
+      },
+      "type": "Feature",
+      "id": 26,
+      "properties": {
+        "city": "San Marcos",
+        "code": "CL",
+        "indexname": "Portilla, Don Felipe Roque de la",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010256.0,
+        "utm_north": 3303256.0,
+        "loc_desc": "from San Marcos (I-35) take RR 621 SE approx. 2.6 miles to Old Bastrop Rd. (CR 266) and go NE approx. 1.2 miles",
+        "title": "Don Felipe Roque de la Portilla",
+        "county": "Hays",
+        "utm_east": 606346.0,
+        "repaircom": "Poor; Refinish",
+        "comments": "Job # 4681",
+        "year": 1976.0,
+        "markernum": 10256,
+        "markertext_1": "At the request of Antonio Cordero, interim governor of the Province of Texas, Spanish-born Felipe Roque de la Portilla (1768?-1841) established a colony here on El Camino Real. With his own family of eight, he brought 51 persons from the interior of Mexico and founded San Marcos de Neve in April 1808. Titles were issued to 13 lots, and home were built, only to be washed away in June floods. Hardships plagued the colony: the defensive troops departed; no priest arrived; seed and a farm irrigation system did not materialize; horses and cattle were lost to Indians, and the people feared for their own lives. In 1809 new settlers brought the population to 81 without bettering living conditions. Portilla lost his health and fortune and was forced to lead his people back to Matamoros, Mexico, in 1812.\r\n     In 1829, however, he helped his son-in-law, James Power, and Power's associate, James Hewetson, plant their colony at Refugio, near Copano Bay. Portilla received land there in 1834, but left for Mexico in 1836. Because he invested his own fortune in the colonizing effort, he is sometimes called the First Empresario, and recognized as a forerunner of Stephen F. Austin, \"The Father of Texas.\"",
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.09366656265568,
+          29.99697241641575
+        ]
+      },
+      "type": "Feature",
+      "id": 27,
+      "properties": {
+        "city": "Wimberley",
+        "code": "BH; OC; VR",
+        "indexname": "Dobie, John R.",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010257.0,
+        "utm_north": 3318795.0,
+        "loc_desc": "approx. 150 yds. north of town square on Old Kyle Rd.",
+        "title": "John R. Dobie House",
+        "county": "Hays",
+        "utm_east": 587419.0,
+        "comments": "Structure in very good condition.\r\nJob #43389",
+        "year": 1990.0,
+        "markernum": 10257,
+        "markertext_1": "Constructed about 1892 for Charles and Susannah Cock, this house was purchased by John R. and Martha Dobie in 1899. A native of Scotland, Dobie (1849-1924) was a farmer, rancher, and Hays County commissioner in 1897-98. A fine example of vernacular house types, the John R. Dobie house features a central hall plan, board-and-batten construction, and classical detailing. It remained in the Dobie family until 1977.\r\n\r\nRecorded Texas Historic Landmark - 1990",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0310679992744,
+          30.12380843873158
+        ]
+      },
+      "type": "Feature",
+      "id": 28,
+      "properties": {
+        "city": "Driftwood",
+        "code": "GY; ME",
+        "indexname": "Driftwood Cemetery",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010258.0,
+        "utm_north": 3332900.0,
+        "title": "Driftwood Cemetery",
+        "county": "Hays",
+        "utm_east": 593338.0,
+        "comments": "Job # 03593",
+        "year": 1993.0,
+        "markernum": 10258,
+        "markertext_1": "This cemetery traces its origin to the building of a sanctuary by the Driftwood Methodist Episcopal church, South, here in 1884. The sanctuary was built on two acres of land acquired by the congregation from David L. and Mattie Elizabeth Dorrah. This cemetery was established on a portion of the churchyard immediately south of the sanctuary later that year. It replaced another cemetery established in the 1870s about one mile north of this site known as the Old Community Cemetery. Several of the burials in the old graveyard, including those of many early settlers of this are, were removed and reinterred in the newly established Driftwood Cemetery.\r\n     Among the persons buried here are the following trustees of the Driftwood Methodist Church who helped establish the cemetery: James Thomas Eckols, Sr. (1841-1911); Thomas Martin (1821-1901; and the Rev. John Alexander Garrison (1849-1933), a prominent Methodist circuit preacher.\r\n     The cemetery, which reflects the heritage of this area, contains the grave sites of community and church leaders and at least eight veterans of the American Civil War. The cemetery continues in use and is cared for by the Driftwood Cemetery Association.",
+        "address": "FM 150",
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.03138485214305,
+          30.12325130086377
+        ]
+      },
+      "type": "Feature",
+      "id": 29,
+      "properties": {
+        "city": "Driftwood",
+        "code": "CH; ME",
+        "indexname": "Driftwood Church",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010259.0,
+        "utm_north": 3332838.0,
+        "loc_desc": "on FM 150; Driftwood",
+        "title": "Driftwood Church",
+        "county": "Hays",
+        "utm_east": 593308.0,
+        "comments": "Job # 7272",
+        "year": 1983.0,
+        "markernum": 10259,
+        "markertext_1": "Early Methodist church services in Driftwood were held in the Reaves School (1 mi. N) by the Rev. John Alexander Garison (1849-1933), who served other small Hays County communities as well. The congregation began meeting here in 1884 after this small frame sanctuary was completed. When the local Baptist church building was destroyed in 1911 the Methodist shared this structure with the Baptists. Both congregations have continued to hold services here and provide a Union Sunday School. Descendants of pioneer church members still worship at the Driftwood church.",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.08779318958022,
+          30.205492249652693
+        ]
+      },
+      "type": "Feature",
+      "id": 30,
+      "properties": {
+        "city": "Dripping Springs",
+        "code": "CH; ME",
+        "indexname": "Dripping Springs United Methodist Church",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010260.0,
+        "utm_north": 3341907.0,
+        "loc_desc": "from Dripping Springs take RR 12 N approx. 1 mile to church (marker on east church entrance)",
+        "title": "Dripping Springs United Methodist Church",
+        "county": "Hays",
+        "utm_east": 587801.0,
+        "repaircom": "Poor; Refinish",
+        "comments": "Job # 8187",
+        "year": 1985.0,
+        "markernum": 10260,
+        "markertext_1": "Methodists in the Dripping Springs area first gathered for worship in the ne-room log home of dr. J. w. Pounds in 1854. Two prominent 19th-century circuit preachers who served Dripping Springs were the rev. andrew J. Potter and the Rev. Orceneth A. fisher. In 1880, the congregation built its first sanctuary on land donated by Mr. and Mrs. J. W. Phillips. In keeping with its history of community service, the congregation has often extended the use of its church home to newly organized churches of other denominations.",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.08947652911642,
+          30.19191414989339
+        ]
+      },
+      "type": "Feature",
+      "id": 31,
+      "properties": {
+        "city": "Dripping Springs",
+        "code": "EB; FO",
+        "indexname": "Dripping Springs Academy",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010261.0,
+        "utm_north": 3340401.0,
+        "loc_desc": "on Old Fitzhugo Rd. approx. 1 block north of Mercer St.",
+        "title": "Dripping Springs Academy",
+        "county": "Hays",
+        "utm_east": 587651.0,
+        "repaircom": "Fair",
+        "comments": "Job # 1737",
+        "year": 1968.0,
+        "markernum": 10261,
+        "markertext_1": "Founded 1881 by W. M. Jordan, noted Baptist preacher. Its stone building was given to Pedernales Baptist Association 1883; then to public school district, 1889. Second floor was added, 1920. It became property Rambo Lodge #426 A.F. & A.M., 1952.\r\n\r\nRecorded Texas Historic Landmark - 1967",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9472072569352,
+          29.877392721058097
+        ]
+      },
+      "type": "Feature",
+      "id": 32,
+      "properties": {
+        "city": "San Marcos",
+        "code": "AA; ED",
+        "indexname": "Dunbar School",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010262.0,
+        "utm_north": 3171672.0,
+        "loc_desc": "on Endicott near intersection w/ Martin Luther King",
+        "title": "Dunbar School",
+        "county": "Hays",
+        "utm_east": 620358.0,
+        "repaircom": "Fair",
+        "comments": "Job # 4391",
+        "year": 1975.0,
+        "markernum": 10262,
+        "markertext_1": "Private instruction for black children in San Marcos may have begun as early as 1847, but the first public school was founded in 1877 with 50 pupils. The school was moved to this 7.3 acre site in 1918. Many graduates continued into higher education, and some returned as teachers, including Ola Lee Coleman, whose 36-year career was the longest here. In 1961 the school was renamed for Paul Lawrence Dunbar (1872-1906), noted black author. This facility closed with the completion of school integration in the 1960s. In 1973 Mr. and Mrs. C. D. Marshall purchased the site for use as a city park.",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.95226176294068,
+          29.878900585795986
+        ]
+      },
+      "type": "Feature",
+      "id": 33,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH",
+        "indexname": "Earnest, Joseph W.",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010263.0,
+        "utm_north": 3305827.0,
+        "title": "Joseph W. Earnest Home",
+        "county": "Hays",
+        "utm_east": 601178.0,
+        "comments": "Structure in very good condition.\r\nJob # 5486",
+        "year": 1979.0,
+        "markernum": 10263,
+        "markertext_1": "A native of Tennessee, Joseph W. Earnest (1844-1920) migrated to Hays County with his parents in 1854. He was a veteran of the Texas Rangers and Confederate Army. A merchant and cattleman, Earnest married Cevilia Cock (1850-1931) in 1870. He hired local builder Charles Sinz (1846-1903) to construct this Victorian residence in 1892. The Earnests' niece Mary Cock (1890-1976) grew up in this house. Later she and her husband Irvin Rylander (1822-1968) became the owners.\r\n\r\nRecorded Texas Historic Landmark - 1979",
+        "address": "833 Belvin St.",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.94109623127015,
+          29.874281413194247
+        ]
+      },
+      "type": "Feature",
+      "id": 34,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BF; MS",
+        "indexname": "Farmers Union Gin Company",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010264.0,
+        "utm_north": 3305325.0,
+        "loc_desc": "at the corner of Grove and Hill St.",
+        "title": "Farmers Union Gin Company",
+        "county": "Hays",
+        "utm_east": 602261.0,
+        "comments": "Job # 6445",
+        "year": 1981.0,
+        "markernum": 10264,
+        "markertext_1": "Local farmers Henry Kellerman, J. H. Barbee, A. H. Fleming, I. B. Rylander, and J. H. Williams purchased this site in 1908. Through their efforts the Farmers Union Gin Company was established here under the leadership of Oscar Calvin Smith. The first industrial plant of its size in San Marcos, the gin became vital to the area's cotton industry and remained in operation until 1966. This brick gin house, built in 1911, replaced an earlier structure which burned.\r\n\r\nRecorded Texas Historic Landmark - 1981\r\n\r\nIncise in base: Restored by Mr. and Mrs. W. H. Crook and\r\n                          Mr. and Mrs. Randall Morris - 1981",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.84634313075888,
+          30.08151095862665
+        ]
+      },
+      "type": "Feature",
+      "id": 35,
+      "properties": {
+        "city": "Buda",
+        "code": "BP; CH",
+        "indexname": "First Methodist Church of Buda",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010265.0,
+        "utm_north": 3328378.0,
+        "title": "First Methodist Church of Buda",
+        "county": "Hays",
+        "utm_east": 611181.0,
+        "repaircom": "Fair",
+        "comments": "Job # 6703",
+        "year": 1982.0,
+        "markernum": 10265,
+        "markertext_1": "In July 1882, the year after the founding of Du Pre, now Buda, M. Lawson, A. Teague and W. A. Hancock petitioned the San Marcos Baptist Association for the formation of this church. The first pastor was the Rev. D. A. Porter, ordained in the nearby Pioneer Baptist Church at Mountain City. Services were conducted in a schoolhouse and a Methodist chapel until the 1890s, when the first sanctuary was built. The church moved here in 1949, when the new stone building was completed. Known as the Buda Baptist Church from 1889, the congregation adopted the present name in 1967.",
+        "address": "104 San Marcos",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.08881333707815,
+          30.19173809166462
+        ]
+      },
+      "type": "Feature",
+      "id": 36,
+      "properties": {
+        "city": "Dripping Springs",
+        "code": "BP; CH",
+        "indexname": "First Baptist Church of Dripping Springs",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010266.0,
+        "utm_north": 3340382.0,
+        "loc_desc": "corner of W US. 290 and San Marcos St.",
+        "title": "First Baptist Church of Dripping Springs",
+        "county": "Hays",
+        "utm_east": 587715.0,
+        "comments": "Job # 3616",
+        "year": 1972.0,
+        "markernum": 10266,
+        "markertext_1": "Organized June 1872 with 12 charter members and the Rev. G. G. Rucker as pastor. Led in forming Pedernales Baptist Association, 1873. Members W. T. Chapman, A. L. Davis and others founded Dripping Springs Academy, 1880. This sanctuary, built 1901, was dedicated in 1902.",
+        "size": "14\" x 24\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.87820426733725,
+          29.988779562470253
+        ]
+      },
+      "type": "Feature",
+      "id": 37,
+      "properties": {
+        "city": "Kyle",
+        "code": "BP; CH",
+        "indexname": "First Baptist Church of Kyle",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010267.0,
+        "utm_north": 3318071.0,
+        "title": "First Baptist Church of Kyle",
+        "county": "Hays",
+        "utm_east": 608211.0,
+        "comments": "Job # 3698",
+        "year": 1972.0,
+        "markernum": 10267,
+        "markertext_1": "Founded at Mountain City, 1872. Original pastor: the Rev. J. C. Tally. A dynamic congregation, this church within two months of its origin licensed (and later ordained) D. A. Porter as a minister; in 1879 demitted 26 members to form church nearby; in 1881 moved here and was renamed.",
+        "address": "Nance and Center St.",
+        "size": "14\" x 24\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.94521562848203,
+          29.884276900515214
+        ]
+      },
+      "type": "Feature",
+      "id": 38,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BP; CH",
+        "indexname": "First Baptist Church of San Marcos",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010268.0,
+        "utm_north": 3306429.0,
+        "loc_desc": "corner of Hutchison and North St. (marker on North St.)",
+        "title": "First Baptist Church of San Marcos",
+        "county": "Hays",
+        "utm_east": 601853.0,
+        "repaircom": "Fair; Refinish - local effort",
+        "comments": "Job # 4009",
+        "year": 1974.0,
+        "markernum": 10268,
+        "markertext_1": "City's third oldest congregation. Pioneer in church-related education. Organized Oct. 25, 1857, by the Rev. Milton Caperton, a missionary. Charter members: J. J. Barbee, Mrs. Mary Barbee, Maj. and Mrs. William Barbee, Shadrack Dixon, Jonathon Ellison, Mrs. Hattax, Mrs. Claiborne Kyle (who, according to tradition, walked 6 miles to worship here). First resident pastor (1878) was the Rev. H. M. Burroughs. After meeting for years in borrowed or rented quarters, congregation erected first building of its own in 1881, under leadership of the Rev. Barnett Hatcher. Larger church buildings were erected in 1892 and 1902.\r\n     Under its 1906-1914 pastor, the Rev. B. A. Copass, the church founded and opened (1908) San Marcos Baptist Academy-- an institution that is still prospering.\r\n     After a destructive 1909 fire, a converted skating rink became the Baptist Tabernacle. Present church, completed in 1928, has been enlarged several times.\r\n     During its first century, the congregation of First Baptist Church was host to programs featuring some internationally-known, popular orators, including U. S. Senator Joseph Weldon Bailey, presidential aspirant William Jennings Bryan, Evangelist George W. Truett, U. S. Senator Morris Sheppard, and others.",
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.94164801155196,
+          29.882822541245243
+        ]
+      },
+      "type": "Feature",
+      "id": 39,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BE; CH; ME",
+        "indexname": "First United Methodist Church",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010271.0,
+        "utm_north": 3306271.0,
+        "title": "First United Methodist Church",
+        "county": "Hays",
+        "utm_east": 602199.0,
+        "comments": "Structure in very good condition.",
+        "year": 1970.0,
+        "markernum": 10271,
+        "markertext_1": "First church in Hays County. Organized August 5, 1847, with 9 charter members, by circuit rider A. B. F. Kerr in home of John D. Pitts. Growing congregation moved by 1849 to a log house used for church, courthouse, and school; braved wild animals and indians to hold worship.\r\n     The first church building was erected on present site, 1855; second, 1872. Present building-- an excellent example of Gothic revival style-- was built in 1893.\r\n\r\nRecorded Texas Historic Landmark - 1970",
+        "address": "129 W. Hutchison St.",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.93809741140834,
+          29.88270377509105
+        ]
+      },
+      "type": "Feature",
+      "id": 40,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BK",
+        "indexname": "First National Bank of San Marcos",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010272.0,
+        "utm_north": 3306261.0,
+        "title": "First National Bank of San Marcos",
+        "county": "Hays",
+        "utm_east": 602542.0,
+        "repaircom": "Poor; Refinish - local effort",
+        "comments": "Job # 5358",
+        "year": 1979.0,
+        "markernum": 10272,
+        "markertext_1": "Ed J. L. Green (1841-1924) came to San Marcos in 1859 from Arkansas. He saw the need for a bank, bought the lots on the south side of the Courthouse Square in 1878, and erected a large two-story rock building. \"Green's Bank\" opened May 6, 1879. He rented the extra space to lawyers, doctors and real estate agents. The \"Chicago Store,\" a mercantile business, and later the San Marcos Phone Company occupied the building. Frank H. Malone operated the bank until Green's term as district clerk expired. Green took over as president and with 16 stockholders in 1885 received a charter for \"The First National Bank of San Marcos.\"\r\n      Green was a trustee on the board of Southwest Texas State University, mayor of San Marcos, and president of the school board. After Green retired in 1909, a three-story building was constructed on the southeast corner of the square and was occupied for 66 years. In 1975 the bank moved into its new facility on the same block.\r\n     Other presidents who were instrumental in the growth of the bank during its history included: S. Woodall, Alvy L. Blair, Robert Earl McKie, Jack Harper and Bruce F. Harper. This bank is the oldest business in continuous operation in San Marcos.",
+        "address": "123 N. Edward Gary",
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.94615807260617,
+          29.883282766837368
+        ]
+      },
+      "type": "Feature",
+      "id": 41,
+      "properties": {
+        "city": "San Marcos",
+        "code": "CH; PR",
+        "indexname": "First Presbyterian Church",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010273.0,
+        "utm_north": 3306318.0,
+        "title": "First Presbyterian Church",
+        "county": "Hays",
+        "utm_east": 601763.0,
+        "comments": "Job # 3820",
+        "year": 1973.0,
+        "markernum": 10273,
+        "markertext_1": "In 1848, Presbyterian settlers met in log courthouse to hear sermons by the rev. Nathaniel P. Charlot, teacher of area's first Sunday School. In 1853, circuit rider Humphrey W. Rogers and Mr. Charlot organized this church. The Rev. J. H. Zivley (1824-1905), also a circuit rider, from Austin, became first regular pastor in 1854.\r\n     Original church building, at Austin (now LBJ) and Colorado, was erected 1872. Second, at present site, was occupied on Sept. 16, 1897. Present structure, built in 1952, was dedicated on the 100th anniversary, in October 1953.",
+        "address": "Hutchison and Mary",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.93765441890402,
+          29.884441838447867
+        ]
+      },
+      "type": "Feature",
+      "id": 42,
+      "properties": {
+        "city": "San Marcos",
+        "code": "CT; SM",
+        "indexname": "First Public Building, Site of Hays County's",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010274.0,
+        "utm_north": 3306454.0,
+        "loc_desc": "Moon Drive, Texas State University",
+        "title": "Site of Hays County's First Public Building",
+        "county": "Hays",
+        "utm_east": 602583.0,
+        "repaircom": "not surveyed - did not locate",
+        "markertext_1": "Early San Marcos settlers erected log house here in 1847.\r\n     Of elm, cedar and cypress, and built for church and school, the cabin had a floor of dirt, later one of puncheons (split logs). It was used as courthouse after Hays County was created 1848.\r\n     County and district courts met in the building until 1861.\r\n     Presbyterian and Baptist churches were organized here. Nearby was a stagecoach stop.\r\n     Confederate Army recruits were trained in the area, using this house as headquarters.\r\n     Structure burned in 1874, after falling into disuse by public.",
+        "year": 1967.0,
+        "markernum": 10274,
+        "address": "Moon Dr",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.93655003638196,
+          29.88507364417738
+        ]
+      },
+      "type": "Feature",
+      "id": 43,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BG; FM",
+        "indexname": "Fish Hatchery Office Building",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010275.0,
+        "utm_north": 3306525.0,
+        "title": "Old Fish Hatchery Office Building",
+        "county": "Hays",
+        "utm_east": 602689.0,
+        "repaircom": "Fair",
+        "comments": "Job # 6877",
+        "year": 1982.0,
+        "markernum": 10275,
+        "markertext_1": "This structure, erected 1894-95, originally served as the office building for the San Marcos National fish Hatchery, established in 1893 near the head of the San Marcos River. The facility closed in 1965 and the site was given to Southwest Texas State University. The building, which features unusually large brackets, then housed the main offices of the school's Aquatic Biological Center until it was moved to this site on the River Walkway.\r\n\r\nRecorded Texas Historic Landmark - 1982",
+        "address": "206 C. M. Allen Pkwy.",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.79652608110761,
+          30.023457917571218
+        ]
+      },
+      "type": "Feature",
+      "id": 44,
+      "properties": {
+        "city": "Buda",
+        "code": "GT",
+        "indexname": "Goforth",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010277.0,
+        "utm_north": 3321994.0,
+        "loc_desc": "from IH-35 take FM 2001E approx 4.5 miles to CR 157 (becomes Goforth) approx. 1.5 mi.",
+        "title": "Goforth",
+        "county": "Hays",
+        "utm_east": 616050.0,
+        "repaircom": "Poor; Refinish - local effort - needs foundation work",
+        "comments": "Job # 8218",
+        "year": 1985.0,
+        "markernum": 10277,
+        "markertext_1": "Once the center of cotton-producing activity in Hays County. Goforth became a ghost town during the 1920s. The community was established in the 1870s by James Taylor Goforth (1849-1915), who operated a general store at this site. Goforth's store served as a social center and as a banking facility for many of the farm families in the area.\r\n     Business activity in Goforth was at its height between 1880 and 1906. The town boasted a drugstore, doctor's office, meat market, stable, and blacksmith shop. A U. S. Post Office opened in 1890, with J. T. Goforth as postmaster. In 1894, J. M. Butterworth purchased Goforth's store, but closed it three years later when the Goforth Supply Company was organized. The town's founder later formed a gin and milling company that operated one of the largest cotton gins in the area.\r\n     Despite the fact that rail lines had bypassed Goforth, the community flourished until soil erosion and worn out farmland combined to bring extensive crop failure in 1925. A worm infestation in 1926 caused total abandonment of area farms. The supply company closed that year with stock still on the shelves.\r\n     Although little evidence remains of the townsite, Goforth is an important part of Hays County history.",
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.90643080230977,
+          29.899807166194133
+        ]
+      },
+      "type": "Feature",
+      "id": 45,
+      "properties": {
+        "city": "San Marcos",
+        "code": "CO",
+        "indexname": "Hays County",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010279.0,
+        "utm_north": 3308185.0,
+        "loc_desc": "highway mile marker 207 on IH-35, San Marcos",
+        "title": "Hays County",
+        "county": "Hays",
+        "utm_east": 605582.0,
+        "repaircom": "Fair",
+        "markertext_1": "--",
+        "year": 1936.0,
+        "markernum": 10279,
+        "size": "1936 Centennial - Highway Marker (pink granite)"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.94014309270258,
+          29.883144350133716
+        ]
+      },
+      "type": "Feature",
+      "id": 46,
+      "properties": {
+        "city": "San Marcos",
+        "code": "CT",
+        "indexname": "Hays County Courthouses",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010280.0,
+        "utm_north": 3306308.0,
+        "loc_desc": "west side of Courthouse Square",
+        "title": "The Courthouses of Hays County",
+        "county": "Hays",
+        "utm_east": 602344.0,
+        "repaircom": "Fair",
+        "markertext_1": "When Hays County originated in 1848, its one public building was a log church-schoolhouse that had to serve as the courthouse, along with its other uses. Although the San Marcos townsite, platted in 1851, contained a court square donated to the county, the forfeiture of a $2,000.00 criminal bond later gave the county funds for building, and in 1861 officials employed contractor C. F. Millett to erect on the Square a 36 x 40-foot, 2-story frame courthouse with a hearing room, jury rooms, and 4 offices. That pine building burned in 1868, and county officials operated from rented quarters until a courthouse of soft, locally quarried limestone was completed in 1871. Damaged by earth shiftings, that 2-story, 45 x 53-foot building was razed (1881) and replaced by a 50 x 60-foot, 2-story building of harder limestone designed by F. e. Ruffini, architect for University of Texas buildings and for courthouses in several other counties. After that 1882-83 structure lost its top story in a fire on Feb. 28, 1908, it also was razed. The fourth and present courthouse, in eclectic style, was designed by C. H. Page & Brother, of Austin. Completed and accepted by the county court on Dec. 13, 1909, it has had interior alterations; it was restored in 1972.",
+        "year": 1974.0,
+        "markernum": 10280,
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.94718400705113,
+          29.878282635261144
+        ]
+      },
+      "type": "Feature",
+      "id": 47,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH; QA",
+        "indexname": "Heard-Baker House",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010281.0,
+        "utm_north": 3305763.0,
+        "title": "Heard-Baker House",
+        "county": "Hays",
+        "utm_east": 601669.0,
+        "comments": "Job # 8767",
+        "year": 1986.0,
+        "markernum": 10281,
+        "markertext_1": "William Green built this house about 1889 and sold it to rancher Samuel McGehee Heard (d. 1909). At the time, the homesite included enough surrounding land to graze livestock. Members of the Heard family lived here until 1944, when Robert Lee Baker (d. 1957) purchased the house. Designed in the Queen Anne style with a distinctive octagonal corner tower, it features Eastlake influences in the decorative porch millwork.\r\n\r\nRecorded Texas Historic Landmark - 1986",
+        "address": "620 W. San Antonio",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.95262447480464,
+          29.87689111031849
+        ]
+      },
+      "type": "Feature",
+      "id": 48,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH; RV",
+        "indexname": "Augusta Hofheinz House",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010282.0,
+        "utm_north": 3305604.0,
+        "title": "Augusta Hofheinz House",
+        "county": "Hays",
+        "utm_east": 601145.0,
+        "comments": "Structure in excellent condition.\r\nJob # 12892",
+        "year": 1992.0,
+        "markernum": 10282,
+        "markertext_1": "This house was constructed in 1908 by Mead & Eastwood Lumber Co. for Augusta Hofheinz, widow of Daniel Hofheinz (1849-1903), who owned and operated a hotel he constructed in San Marcos in the late 1870s. their son, Walter (1880-1943), supervised its construction. Augusta occupied the house until her death in 1924. the Augusta Hofheinz houses is a finely detailed example of classical revival architecture featuring symmetrical composition, giant order classical columns, and a deep entablature. It was placed on the National Register of Historic Places in 1983.\r\n\r\nRecorded Texas Historic Landmark - 1992",
+        "address": "1104 W. Hopkins",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.94206295416149,
+          29.885695498324445
+        ]
+      },
+      "type": "Feature",
+      "id": 49,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH; ON",
+        "indexname": "Hutchison, Beverly",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010283.0,
+        "utm_north": 3306589.0,
+        "title": "Beverly Hutchison House",
+        "county": "Hays",
+        "utm_east": 602156.0,
+        "repaircom": "Poor; Refinish - local effort",
+        "comments": "Job # 1087",
+        "year": 1968.0,
+        "markernum": 10283,
+        "markertext_1": "Designed by German architect Charles S. Sinz; built 1896 for the Beverly Hutchison family; later owned by L. Robertson, E. O. Bethke, R. e. Miller and M. Falls, this house in the late 1920s earned its place in history as residence of a student from the Texas Hill County. The young man, Lyndon Baines Johnson, destined to be the thirty-sixth president of the United States, lived in this home during part of his time at Southwest texas State Teacher's College (now Southwest Texas State College).\r\n\r\nRecorded Texas Historic Landmark - 1968",
+        "address": "400 LBJ",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.82768118768676,
+          29.942760669570948
+        ]
+      },
+      "type": "Feature",
+      "id": 50,
+      "properties": {
+        "city": "Kyle",
+        "code": "BP; CH; GN",
+        "indexname": "Immanuel Baptist Church",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010284.0,
+        "utm_north": 3313020.0,
+        "loc_desc": "from Kyle take FM 150 E approx. 3.5 miles",
+        "title": "Immanuel Baptist Church",
+        "county": "Hays",
+        "utm_east": 613137.0,
+        "repaircom": "Poor; Refinish - local effort",
+        "comments": "Job # 4847",
+        "year": 1977.0,
+        "markernum": 10284,
+        "markertext_1": "Christian Siebenhausen and Karl Wiegand migrated to Kyle from germany in 1883. Other German families soon joined them. In 1886, sixteen of these settlers met at the George Wiegand home to form the first German Baptist Church of Kyle. Services were originally held in homes and Sunday School at the community schoolhouse. A church building and parsonage were erected in 1893 on land acquired from Frank Marstellar. Fire destroyed the first church in 1940. The present rock structure was dedicated in 1941, when the fellowship became Immanuel Baptist Church.",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.97399143743671,
+          29.893572950084735
+        ]
+      },
+      "type": "Feature",
+      "id": 51,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH; BI; MR",
+        "indexname": "Johnson, Lloyd Gideon",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010285.0,
+        "utm_north": 3307434.0,
+        "title": "Lloyd Gideon Johnson House",
+        "county": "Hays",
+        "utm_east": 599065.0,
+        "comments": "Structure is \"unbelievable\" - good.\r\nJob # 22590",
+        "year": 192.0,
+        "markernum": 10285,
+        "markertext_1": "Local banker Lloyd G. Johnson and his wife Katherine built this house as a residence for their family in 1919-1920. the house, designed by noted architect Atlee B. Ayres, combines informal elements of the Mediterranean style with classical detailing and a formal, symmetrical plan. San Marcos Masonic Lodge No. 342 bought the house in 1937. It served as a Lodge building until 1990, when it was purchased for use again as a private residence.\r\n\r\nRecorded Texas Historic Landmark - 1982",
+        "address": "1030 Belvin St.",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9504546948472,
+          29.88138587588386
+        ]
+      },
+      "type": "Feature",
+      "id": 52,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH; OC; OS; QA",
+        "indexname": "Kone-Cliett House",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010286.0,
+        "utm_north": 3306104.0,
+        "title": "Kone-Cliett House",
+        "county": "Hays",
+        "utm_east": 601350.0,
+        "repaircom": "Poor; Refinish - local effort",
+        "comments": "Job # 8816",
+        "year": 1986.0,
+        "markernum": 10286,
+        "markertext_1": "Edward Reeves Kone (1848-1933) served from the 1860s as Hays County attorney, sheriff, judge, and education superintendent, and from 1908 to 1914 as state agriculture commissioner. He bought this land on a bluff of the Balcones Fault in 1881 and built his house, a derivative of the Queen Anne style, about 1890. The Kone family sold the house in 1914 to cotton grower and later postmaster Oran W. Cliett (1882-1959), who lived here until 1958.\r\n\r\nRecorded Texas Historic Landmark - 1986",
+        "address": "724 Burleson",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.95226176294068,
+          29.878900585795986
+        ]
+      },
+      "type": "Feature",
+      "id": 53,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH; VC",
+        "indexname": "Kone-Yarbrough House",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010287.0,
+        "utm_north": 3305827.0,
+        "title": "Kone-Yarbrough House",
+        "county": "Hays",
+        "utm_east": 601178.0,
+        "comments": "Job # 4803",
+        "year": 1977.0,
+        "markernum": 10287,
+        "markertext_1": "This Victorian residence with its unusual central chimney was erected in 1886 for the growing family of Sam R. Kone, Jr. (1855-1941), a successful merchant, active Mason, and member of the San Marcos City Council, 1914-15. His wife Laura (Smith) (1859-1937) taught art at Coronal Institute before her marriage. Educator florence Kone (1883-1971), one of six Kone children, lived here 80 years. Mr. and Mrs. Herbert a. Yarbrough, Jr., also owned, occupied, and preserved the home.\r\n\r\nRecorded Texas Historic Landmark - 1977",
+        "address": "903 Belvin",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.87838372108659,
+          29.988492331005233
+        ]
+      },
+      "type": "Feature",
+      "id": 54,
+      "properties": {
+        "city": "Kyle",
+        "code": "CT; WN",
+        "indexname": "Kyle",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010288.0,
+        "utm_north": 3318039.0,
+        "title": "Kyle",
+        "county": "Hays",
+        "utm_east": 608194.0,
+        "repaircom": "Poor; Refinish",
+        "comments": "Job # 5727",
+        "year": 1980.0,
+        "markernum": 10288,
+        "markertext_1": "Two antebellum settlements, the Blanco or Nance community (7 mi. W) and Mountain City (3 mi. W), provided the early population and business for Kyle after the city was founded in 1880. Fergus Kyle, for whom the town was named, and the family of David Moore donated 200 acres of land for a townsite when the International & Great Northern Railroad built a line from Austin to San Antonio. Lots were first sold in October 1880 as an auction held beneath a liveoak at 204 S. sledge Street. The first business was a saloon and meat market owned by Tom Martin.\r\n     An 1895 election incorporated the town but voters discontinued the status two years later. Kyle was incorporated again in 1906 and J. W. Tompkins served as the first mayor.\r\n     In the 1940s Kyle residents elected an all-woman municipal government. The mayor, who won using a write-in campaign, was Mary Kyle Hartson (1865-1956), daughter of Fergus Kyle. Her brother Edwin Jackson Kyle (b. 1876) was dean of the Texas A&M School of Agriculture. He later served in the administrations of Presidents Franklin Roosevelt and Harry Truman as the ambassador to Guatemala (1944-48). Kyle Football Field at Texas A&M University is named in his honor.",
+        "address": "City Hall Square, 106 S. Main",
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.88087252514083,
+          29.987484799580525
+        ]
+      },
+      "type": "Feature",
+      "id": 55,
+      "properties": {
+        "city": "Kyle",
+        "code": "CY; LB; RR",
+        "indexname": "Kyle Auction Oak",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010289.0,
+        "utm_north": 3317925.0,
+        "title": "Kyle Auction Oak",
+        "county": "Hays",
+        "utm_east": 607955.0,
+        "repaircom": "Poor; Refinish",
+        "comments": "Job # 4392",
+        "year": 1975.0,
+        "markernum": 10289,
+        "markertext_1": "When Kyle was founded along the International & Great Northern Railroad in 1880, this giant liveoak was site of a public auction of town lots. The railway was given 200 acres of land by Fergus Kyle (1834-1905), state representative for whom the community was named, and the family of David E. Moore. Free rides were provided to the townsite on auction day, Oct. 14, 1880, and all business and most residential lots were sold. In 1881, the railroad gave 4 acres around the tree for a school, Kyle Seminary, which burned in 1889. The Alex Kercheville family now (1975) owns and preserves the tree.",
+        "address": "204 S. Sledge",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.89823403197337,
+          29.963212804312047
+        ]
+      },
+      "type": "Feature",
+      "id": 56,
+      "properties": {
+        "city": "Kyle",
+        "code": "GY",
+        "indexname": "Kyle Cemetery",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010290.0,
+        "utm_north": 3315219.0,
+        "loc_desc": "take CR 136 (Old Stagecoach Rd.) SW approx. 2.5 miles",
+        "title": "Kyle Cemetery",
+        "county": "Hays",
+        "utm_east": 606306.0,
+        "comments": "Job # 09992",
+        "year": 1992.0,
+        "markernum": 10290,
+        "markertext_1": "Many people instrumental in the early development of this area are buried in Kyle Cemetery. Colonel Clairborne Kyle, one of Hays County's original settlers, buried his adopted son, willie Parks, here in 1849. Although Parks' interment is the first recorded at this site, local tradition claims that a man found hanging from a live oak tree located within these cemetery grounds was the first person buried here; that tree was thereafter referred to as \"the hanging tree.\"\r\n     Although it is believed that Claiborne Kyle set aside fifteen acres of his land surrounding these early interments for use as a community the first legal document mentioning Kyle Cemetery is a deed executed by his son, Polk, donating 5 acres for a burial ground in 1877. five additional acres were purchased for the cemetery in 1899 from Jason and Fannie Wilson by trustees w. L. Stephenson, J. H. white and d. W. Benner. Another five acres were donated to the newly incorporated cemetery in 1906 by O. g. Parke.\r\n     Among the gravesites here are those of many area pioneers, including the Claiborne Kyle family, Edward Burleson, Jr., Ezekiel Nance, and veterans of the American Civil War, World Wars I and II, the Korean Conflict and the Vietnam War.",
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.90232467231633,
+          29.965367552395104
+        ]
+      },
+      "type": "Feature",
+      "id": 57,
+      "properties": {
+        "city": "Kyle",
+        "code": "CB; PI",
+        "indexname": "Kyle, Claiborne",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010291.0,
+        "utm_north": 3315454.0,
+        "loc_desc": "from Kyle take Old Stagecoach Rd. SW approx. 4 miles",
+        "title": "Claiborne Kyle Log House",
+        "county": "Hays",
+        "utm_east": 605909.0,
+        "comments": "Job # 6844",
+        "year": 1982.0,
+        "markernum": 10291,
+        "markertext_1": "Col. John Claiborne Kyle (d. 1867) and his wife Lucy (Bugg) (d. 1863), natives of Tennessee came to the Republic of texas from Mississippi in 1844. they built this four-pen dog trot log home soon after they purchased land here in 1850. Constructed of hand-hewn cedar logs, it was located on the Austin-San Antonio stage route. An active political leader, Kyle had five sons who served in the Confederate Army during the Civil War, including Capt. Ferg Kyle, for whom the town of Kyle (4 mi. NE) was named. The Kyle house now serves as a reminder of this prominent pioneer family.\r\n\r\nRecorded Texas Historic Landmark - 1982",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9216862377048,
+          29.936371335023647
+        ]
+      },
+      "type": "Feature",
+      "id": 58,
+      "properties": {
+        "city": "San Marcos",
+        "code": "DC",
+        "indexname": "Lime Kiln",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010292.0,
+        "utm_north": 3312223.0,
+        "loc_desc": "from Old Post Road take Lime Kiln Road north",
+        "title": "The Old Lime Kiln",
+        "county": "Hays",
+        "utm_east": 604071.0,
+        "repaircom": "Poor; Refinish - local effort",
+        "comments": "Job # 4621",
+        "year": 1976.0,
+        "markernum": 10292,
+        "markertext_1": "This site near the source of the San Marcos River was part of the Thomas J. Chambers grant of 1834. The tract was sold in 1848 to Gen. Edward Burleson (1798-1851), military and political leader in early Texas, who built a cabin nearby. A later owner, former Confederate Major W. O. Hutchison (1834-1900), sold 47.5 acres to J. J. Belger and James D. Cahill in 1887. They erected this brick and rock kiln, in which limestone was burned to produce lime for agriculture and construction. The operation ceased by 1910, when cheaper lime became available. The site is now (1976) owned by the Brown School.\r\n\r\nIncise in base: Marker Sponsors: Boy Scouts of America,\r\n                                                   Troop Number 112",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.89713393890672,
+          29.86842577047865
+        ]
+      },
+      "type": "Feature",
+      "id": 59,
+      "properties": {
+        "city": "San Marcos",
+        "code": "CL; RD",
+        "indexname": "McGehee Crossing",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010293.0,
+        "utm_north": 3304716.0,
+        "loc_desc": "from the Blanco River Crossing on SH 80 (San Marcos) go south on SH 80 approx. 1 mile to ROW",
+        "title": "McGehee Crossing",
+        "county": "Hays",
+        "utm_east": 606513.0,
+        "repaircom": "Fair",
+        "comments": "Job # 8726",
+        "year": 1987.0,
+        "markernum": 10293,
+        "markertext_1": "The Camino Real, also known as the Old San Antonio Road and the King's Highway, followed a route from Nacogdoches to the Rio Grande. Louis Juchereau de St. Denis (1676-1744) traveled the route to establish trade between the French in Louisiana and the Spanish of Coahuila Province on the Rio Grande in 1714.\r\n     The first settlement at the San Marcos River crossing of the road was Villa San Marcos de Neve, established by the Spanish in 1808. It was abandoned by 1812 due to the brewing Mexican revolution.\r\n     During their colonization efforts in 1820 and 1821, Moses Austin (1761-1821) and his son, Stephen F. Austin (1793-1836), very likely crossed the San Marcos River near this point.\r\n     Thomas Gilmer McGehee (1810-1890) settled on the east side of the river on a Mexican land grant about 1846. In 1859 his nephew, Charles L. McGehee, Jr. (1837-1929), acquired 1200 acres of land bordered by the Camino Real and the river. Ten years later he sold the land to his cousin, George T. McGehee (1836-1926). Due to the McGehee family's association with this historic site, it became known as McGehee Crossing.",
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.89767893690818,
+          29.855580213551413
+        ]
+      },
+      "type": "Feature",
+      "id": 60,
+      "properties": {
+        "city": "San Marcos",
+        "code": "CB",
+        "indexname": "McGehee, Charles Lewis",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010294.0,
+        "utm_north": 3303292.0,
+        "loc_desc": "from San Marcos (I-35) take RR 621 SE approx. 2.6 miles to Old Bastrop rd. (CR 266); then NE on CR 266 approx. 1.5 miles to entrance to Rancho del Camino Real (on private property)",
+        "title": "Charles Lewis McGehee Cabin",
+        "county": "Hays",
+        "utm_east": 606474.0,
+        "repaircom": "Poor; Refinish - need property owner's permission",
+        "comments": "Job # 8312",
+        "year": 1985.0,
+        "markernum": 10294,
+        "markertext_1": "The McGehee family came to Texas from Alabama in 1847. In 1859, Charles Lewis McGehee, Jr. (1837-1929) acquired this property along the San Marcos River. He soon built this cabin for his wife, Sarah Jane (Humphreys), and their children. One of the oldest existing structures in this part of Hays County. The cabin features a fireplace and chimney of hand-hewn stone. About 1870, McGehee moved his family from the farm into the town of San Marcos, where he worked as a land developer and stock dealer.",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.94931833050431,
+          29.880140544361186
+        ]
+      },
+      "type": "Feature",
+      "id": 61,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH; OS; VC",
+        "indexname": "McGehee, George Thomas",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010295.0,
+        "utm_north": 3305967.0,
+        "title": "George Thomas McGehee House",
+        "county": "Hays",
+        "utm_east": 601461.0,
+        "comments": "Structure in very good condition.\r\nJob # 4427",
+        "year": 1975.0,
+        "markernum": 10295,
+        "markertext_1": "Among the first settlers in the San Marcos area, George Thomas McGehee (1836-1926) moved here with his parents, Minerva (Hunt) and Thomas Gilmer McGehee, in 1846. He fought in the Civil War with Terry's Texas Rangers and served 3 terms in the State Legislature, 1887-91 and 1893-94. In 1895 he and his wife, Sarah Cherokee Woods McGehee (1849-1928), built this turreted Victorian residence. In 1949 it was bought and restored by Homer M. (1897-1972) and Vola Thompson.\r\n\r\nRecorded Texas Historic Landmark - 1975",
+        "address": "727 Belvin St.",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.09163422044514,
+          30.192235921648273
+        ]
+      },
+      "type": "Feature",
+      "id": 62,
+      "properties": {
+        "city": "Dripping Springs",
+        "code": "BH; PO",
+        "indexname": "Marshall-Chapman Home",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010300.0,
+        "utm_north": 3340435.0,
+        "title": "Marshall-Chapman Home",
+        "county": "Hays",
+        "utm_east": 587443.0,
+        "repaircom": "Fair",
+        "comments": "Job # 4615",
+        "year": 1976.0,
+        "markernum": 10300,
+        "markertext_1": "Burrell J. Marshall (1826-1872) built this residence in 1871 by adding rooms of native limestone to an existing frame structure. He used his home briefly as a post office while he was postmaster. When Marshall died in 1872, his widow Martha (1835-1924) married Wm. Thomas Chapman (1835-1917), who also became postmaster and a trustee of the Dripping Springs Academy. Marshall and Chapman family members owned the house until 1942, when John and Clara Wilson bout it.\r\n\r\nRecorded Texas Historic Landmark - 1976",
+        "address": "500 Mercer St.",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7768335098932,
+          30.031117775188402
+        ]
+      },
+      "type": "Feature",
+      "id": 63,
+      "properties": {
+        "city": "Buda",
+        "code": "CH",
+        "indexname": "Martin Church of Goforth",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010301.0,
+        "utm_north": 3322863.0,
+        "loc_desc": "from IH-35, Buda, take FM 2001 E approx. 4.5 miles to CR 157; turn onto CR 157 and then take immediate turn onto Martin Church Rd.; then go approx. .2 mi.",
+        "title": "Martin Church of Goforth",
+        "county": "Hays",
+        "utm_east": 617940.0,
+        "repaircom": "Poor; Refinish - local effort",
+        "comments": "Job # 5984",
+        "year": 1981.0,
+        "markernum": 10301,
+        "markertext_1": "This church was started in 1874 to serve the pioneer settlers of the cotton-producing area around the Goforth community. Worship services were conducted for members representing various denominations. Land at this site was deeded to the church in 1901 by Joseph Martin (1828-1905), his wife Susan (1842-1907), and\r\nT. J. (1839-1905) and Matilda Warwick (1837-1904). For years the facility was used for a community Christmas Eve celebration. Weekly services were discontinued in 1945 after the population of Goforth declined, but an annual homecoming is held here each June.",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.93372050540869,
+          29.892646034625567
+        ]
+      },
+      "type": "Feature",
+      "id": 64,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH; PI",
+        "indexname": "Merriman, Eli T., Home",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010302.0,
+        "utm_north": 3171672.0,
+        "loc_desc": "in Aquarena Springs Park, Texana Village",
+        "title": "Eli T. Merriman Home",
+        "county": "Hays",
+        "utm_east": 620358.0,
+        "markertext_1": "Built about 1846 by Dr. Eli T. Merriman (1815-1867), Yale graduate, 1838 Texas settler. One of 3 San Marcos townsite owners. First physician in area. Later lived in Brownsville, Banquete, Corpus Christi. During Civil War joined Confederate army with 2 sons; one son was in Federal army.\r\n     Son, Eli T., Jr., founded the Corpus Christi \"Caller.\"\r\n     Second home in San Marcos. Originally near Town Square. Built of hand-hewn timber.\r\n\r\nRecorded Texas Historic Landmark - 1965",
+        "year": 1965.0,
+        "markernum": 10302,
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.93720320322167,
+          29.88304851067037
+        ]
+      },
+      "type": "Feature",
+      "id": 65,
+      "properties": {
+        "city": "San Marcos",
+        "code": "CA",
+        "indexname": "Mexican War Camp",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010303.0,
+        "utm_north": 3306300.0,
+        "title": "Mexican War Camp",
+        "county": "Hays",
+        "utm_east": 602628.0,
+        "markertext_1": "--",
+        "year": 0.0,
+        "markernum": 10303,
+        "address": "400 N. Hopkins St.",
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.93086623387458,
+          29.89525778997707
+        ]
+      },
+      "type": "Feature",
+      "id": 66,
+      "properties": {
+        "city": "San Marcos",
+        "code": "MI",
+        "indexname": "Mission San Francisco Xavier de los Delores",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010304.0,
+        "utm_north": 3171672.0,
+        "loc_desc": "Aquarena Springs Park (SWTSU)",
+        "title": "Mission San Francisco Xavier de los Delores",
+        "county": "Hays",
+        "utm_east": 670358.0,
+        "markertext_1": "--",
+        "year": 1936.0,
+        "markernum": 10304,
+        "size": "Bronze"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.93858929202696,
+          29.88416961819997
+        ]
+      },
+      "type": "Feature",
+      "id": 67,
+      "properties": {
+        "city": "San Marcos",
+        "code": "PI; SF",
+        "indexname": "Moon, William W.",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010305.0,
+        "utm_north": 3306423.0,
+        "loc_desc": "cornr of C. M. Allen Pkwy. and Hutchison",
+        "title": "William W. Moon",
+        "county": "Hays",
+        "utm_east": 602493.0,
+        "repaircom": "Fair; Refinish",
+        "markertext_1": "(March 25, 1814 - Jan. 7, 1897)\r\n\r\n     Orphaned two days after his birth, William W. Moon grew up with two uncles in his native Alabama. He married Sophronia Elizabeth Sublett (1819-46) in 1834 and moved to Bastrop, Texas in 1838. Moon joined the texas Rangers and first visited San Marcos Springs during a running Indian battle in 1843. Enchanted by the countryside, he brought his family here in 1845 and built a cabin at this site. The Moons were the first permanent Anglo-American settlers in what is now Hays County. Sophronia Moon died April 21, 1846, but her husband and four daughters were soon joined by other pioneers who decided to make their homes here.\r\n     William W. Moon made many contributions to the growing settlement. His cabin was the site of the first sermon preached and the first school held in Hays County. In 1846 he helped build the log church-schoolhouse which became a courthouse when Hays County was organized (1848). Moon and his family were charter members of the Presbyterian church formed in 1853. In addition to ranching, Moon operated a hotel and stage stop, blacksmith shop, and freight line. He was elected county sheriff and served, 1846-47, in the Mexican War, and 1862-63, in the Civil War. He died in 1897 and is buried in Wimberley Cemetery.",
+        "year": 1975.0,
+        "markernum": 10305,
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.08690834004223,
+          30.16965264352265
+        ]
+      },
+      "type": "Feature",
+      "id": 68,
+      "properties": {
+        "city": "Dripping Springs",
+        "code": "GY;  ME",
+        "indexname": "Phillips Cemetery",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010308.0,
+        "utm_north": 3337936.0,
+        "loc_desc": "take RR 12 S approx. 2 miles to cemetery at intersection w/ FM 150",
+        "title": "Phillips Cemetery",
+        "county": "Hays",
+        "utm_east": 587918.0,
+        "comments": "Job # 06491",
+        "year": 1991.0,
+        "markernum": 10308,
+        "markertext_1": "Early settlers John and Nancy Phillips deeded land at this site to the Methodist Episcopal Church, So, in 1880. A small church was built and was dedicated on March 13, 1880. As was customary, members of the community were buried near the church. \r\n     The earliest documented burial is that of B. G. Sorrell, who died on March 13, 1880. Among the graves here are those of numerous early settlers to the Dripping Springs area and sixteen Civil War veterans.\r\n     In 1901 land for a new church building was acquired on the Old San Marcos Road (now Ranch Road 12). The original Methodist church building was sold and moved, leaving the site to be used solely for the Methodist cemetery. Families cared for individual graves, while members of the community maintained the cemetery. In the early 1920s the local blacksmith, William S. Garnett, ordered caskets and assisted with funeral arrangements.\r\n     The Methodist church donated the cemetery property to the community in 1940, and in 1962 a cemetery association was formed to maintain the historic graveyard. Phillips Cemetery, as it was known locally, became the official name of the burial ground.",
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9894951249554,
+          29.838086214412503
+        ]
+      },
+      "type": "Feature",
+      "id": 69,
+      "properties": {
+        "city": "San Marcos",
+        "code": "GY; PI",
+        "indexname": "Pitts Cemetery",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010309.0,
+        "utm_north": 3301272.0,
+        "loc_desc": "from Courthouse take FM 2439 (Hunter Rd.) SW approx. 4 miles",
+        "title": "Pitts Cemetery",
+        "county": "Hays",
+        "utm_east": 597622.0,
+        "comments": "Job # 31393",
+        "year": 1995.0,
+        "markernum": 10309,
+        "markertext_1": "John Drayton Pitts was born at sea on August 26, 1798, during the voyage of his parents, John and Jane Pitts, from England to Charleston, South Carolina. They moved to Georgia during the War of 1812, and John D. married Eliza Permelia Daves in April 1819.\r\n     John D. Pitts was elected to the Georgia Legislature in 1841, but later moved to Grimes County, Texas. He persuaded his extended family in Georgia to join him, and in 1843 eleven Pitts families moved to Texas.\r\n     John D. Pitts served as adjutant general under Texas Governor George Wood from 1848 to 1849. Pitts bought land here from his friend General Edward Burleson in 1850, and eventually much of his extended family settled along the nearby San Antonio-San Marcos stage route in a community called Stringtown.\r\n     Pitts Cemetery began in 1850 with the burial of John Malone, infant son of James L. and Eliza (Pitts) Malone and grandson of Eliza and John D. Pitts. Eliza Pitts was buried here in 1851. In 1861 John D. Pitts died on his way home from a secessionist convention in Austin, and was buried here. The cemetery was set aside by Pitts' sons-in-law, James Malone and Samuel Kone, Sr., in 1875.\r\n     The cemetery continues to serve as a burial site for the descendants of John D. and Eliza Pitts.\r\n\r\nSesquicentennial of Texas Statehood 1845 - 1995",
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9303827587176,
+          29.892896468283762
+        ]
+      },
+      "type": "Feature",
+      "id": 70,
+      "properties": {
+        "city": "San Marcos",
+        "code": "FT; RD",
+        "indexname": "Post San Marcos",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010311.0,
+        "utm_north": 3171672.0,
+        "loc_desc": "inside Aquarena Springs Park (SWTSU), behind the Visitor Center",
+        "title": "Post San Marcos",
+        "county": "Hays",
+        "utm_east": 620358.0,
+        "repaircom": "Poor; Refinish",
+        "comments": "Job # 3850",
+        "year": 1973.0,
+        "markernum": 10311,
+        "markertext_1": "The Republic of texas Congress in Dec. 1838 called for military roads and forts from Red River to the Nueces. A road from Austin, joining El Camino Real near St. Mark's Springs, was designed for rapid communication between San Antonio and the Capital. Post San Marcos was to be constructed at the springs to safeguard travel.\r\n     Adj. Gen. Hugh McLeod (1814-62) laid out the fort, to be garrisoned by a company of 56 men. Capt. Joseph Wiehl's Co. H, 1st Inf. Regt., in Oct. 1840 completed the road and the fort. In 1841 the Republic of Texas army disbanded for lack of funding, and the post was closed.",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.08933244742968,
+          30.192896741839245
+        ]
+      },
+      "type": "Feature",
+      "id": 71,
+      "properties": {
+        "city": "Dripping Springs",
+        "code": "CV; MD",
+        "indexname": "Pound, Dr. Joseph M.",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010312.0,
+        "utm_north": 3340510.0,
+        "loc_desc": "atthe corner of Mercer and Old Fitzhugh Rd.",
+        "title": "Dr. Joseph M. Pound",
+        "county": "Hays",
+        "utm_east": 587664.0,
+        "markertext_1": "(1827-1914) In Mexican War at age 19. Got M.D. at Louisville, Ky. In 1853 settled 2 miles from here. Home was clinic-hospital for young and old, rich and poor of area.\r\n     As Civil War surgeon, he took scarlet fever. Sent home, he got well, joined frontier regiment. (In this war, for each combat death, 2 died of disease.)\r\n     Confederate doctors had many problems with drug supply, surgical tools, horse-drawn ambulances and hospitals. Instruments had to be bought in Europe (shipped through naval blockage) or captured from the foe. Drugs came in by blockade-runner or were brought from North by ladies who hid them on the person: in Pompadours, bustles, petticoats. Scarcities led to use of dogwood, willow and poplar bark tea as substitute for quinine. Mullein and other wild herbs were medical substitutes. Garden poppies were milked for opium. Sutures were made of horsehair softened by boiling or from silk cloth ravelings.\r\n     Female nurses were used for first time in army hospitals. This was first was to use anesthetics. Amputations left severed limbs stacked like wood around the field hospitals. Ambulances seemed never at hand for casualties; many died awaiting aid. Till the atom bomb, the Civil War was history's bloodiest.",
+        "year": 1965.0,
+        "markernum": 10312,
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.08046378397312,
+          30.19933196496149
+        ]
+      },
+      "type": "Feature",
+      "id": 72,
+      "properties": {
+        "city": "Dripping Springs",
+        "code": "BH; CB; CV; MD",
+        "indexname": "Pound, Dr. Joseph M.",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010313.0,
+        "utm_north": 3341230.0,
+        "loc_desc": "from US 290 take RR 12 N approx. .5 mi. to Founders Park entrance; follow park road approx. 1 mile",
+        "title": "Home of Dr. Joseph M. Pound",
+        "county": "Hays",
+        "utm_east": 588512.0,
+        "repaircom": "missing",
+        "markertext_1": "Home of Dr. Joseph M. Pound and Wife Sarah Dunbiben Ward. First log rooms built 1853 with slave labor. Square nails, hand-hewn timbers and lumber were used in construction.\r\n     Circuit riders stopped here, conducted Methodist worship services. The sick and wounded, rich or poor, came to this home as to a hospital.\r\n     Dr. Pound, U.S. Army private in Mexican War, was a Confederate surgeon in the Civil War.\r\n\r\nRecorded Texas Historic Landmark - 1965",
+        "year": 1965.0,
+        "markernum": 10313,
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.09749024705246,
+          29.996033110988666
+        ]
+      },
+      "type": "Feature",
+      "id": 73,
+      "properties": {
+        "city": "Wimberley",
+        "code": "LV",
+        "indexname": "Pyland, Sidney J.",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010314.0,
+        "utm_north": 3318688.0,
+        "title": "Site of Sidney J. Pyland Blacksmith Shop",
+        "county": "Hays",
+        "utm_east": 587051.0,
+        "comments": "Job # 08092",
+        "year": 1992.0,
+        "markernum": 10314,
+        "markertext_1": "While still a young boy, Sidney J. Pyland accompanied his parents on their journey from Tennessee to Wimberley about 1880. In 1895, at the age of 20, Sidney opened a blacksmith shop here, just above Cypress Creek on the busy village Square. He married Nellie Ann Wimberley in 1897. For 15 years Sidney forged horseshoes, built and repair wagons, and hammered out implements for area ranchers and farmers. In 1910 he moved his family and blacksmith shop intact to San Marcos. This site has continued to be a hub of business activity on Wimberley's Town Square.\r\n\r\nIncise: Sponsored by John and Mavis Woolsey",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0946527556325,
+          30.01053331031504
+        ]
+      },
+      "type": "Feature",
+      "id": 74,
+      "properties": {
+        "city": "Wimberley",
+        "code": "BH; WN",
+        "indexname": "Ragsdale, Julia Ann",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010315.0,
+        "utm_north": 3320297.0,
+        "loc_desc": "take RR 12 N to Summit Dr.; then east on Summit Dr. approx. .5 miles to Gumbert Ranch (private property)",
+        "title": "Julia Ann Ragsdale Home",
+        "county": "Hays",
+        "utm_east": 587312.0,
+        "comments": "Job # 4770",
+        "year": 1976.0,
+        "markernum": 10315,
+        "markertext_1": "Widow of Dr. Frederick B. Ragsdale (1804-1851), Julia Ann Ragsdale (1821-1908) was a well-educated woman who taught school in Arkansas before she brought her family to Texas during the Civil War. In 1864 her daughter Mary Elizabeth (1843-1872) married Light Stapleton Townsend (1834-1928). After Mary's death, Mrs. Ragsdale moved to Wimberley in 1875 to raise her four grandchildren. Townsend built this board-and-batten home for them on Cypress Creek in 1879.\r\n\r\nRecorded Texas Historic Landmark - 1976",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.94715284988378,
+          29.878291410531503
+        ]
+      },
+      "type": "Feature",
+      "id": 75,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH; EB; SF; TI",
+        "indexname": "Ragsdale-Jackman-Yarbrough House",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010316.0,
+        "utm_north": 3305764.0,
+        "title": "Ragsdale-Jackman-Yarbrough House",
+        "county": "Hays",
+        "utm_east": 601672.0,
+        "markertext_1": "Built in 1868 by Peter C. Ragsdale (1810-1882), veteran of the army of the Republic of Texas. After his death, his wife, Elmira, operated a school for girls until the house sold in 1891 to William T. (Uncle Billy) Jackman (1851-1939), trail driver to Kansas (1870s-80s), sheriff of Hays County (1892-1912), postmaster of San Marcos (1913-1920), president of Trail Drivers Association (1931-1937).\r\n     Restored 1947 by Mr. and Mrs. Yancy Yarbrough, local educators.\r\n\r\nRecorded Texas Historic Landmark - 1972",
+        "year": 1972.0,
+        "markernum": 10316,
+        "address": "621 W. San Antonio St.",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.97553590281987,
+          30.117458356460816
+        ]
+      },
+      "type": "Feature",
+      "id": 76,
+      "properties": {
+        "city": "Driftwood",
+        "code": "BH",
+        "indexname": "Rogers, Joseph B.",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010317.0,
+        "utm_north": 3332243.0,
+        "loc_desc": "take RR 967 E approx. 4 miles",
+        "title": "Joseph B. Rogers House",
+        "county": "Hays",
+        "utm_east": 598694.0,
+        "comments": "Job # 4304",
+        "year": 1975.0,
+        "markernum": 10317,
+        "markertext_1": "The son of settlers who came to Texas in 1831, Joseph B. Rogers (1833-1912) served with Terry's Texas Rangers in the Civil War. In 1869 he bought this land and in early 1870s hired local workmen to build this native limestone house. Like many pioneer homes, it had a central hall and a chimney at each end. The wooden porch was replaced with concrete in 1916. Rogers' son, Martin Oldham Rogers (1899-1975), and his wife, Minnie Lea Posey Rogers, have preserved the structure.\r\n\r\nRecorded Texas Historic Landmark - 1975",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.90820109696884,
+          29.91601974767158
+        ]
+      },
+      "type": "Feature",
+      "id": 77,
+      "properties": {
+        "city": "San Marcos",
+        "code": "GY",
+        "indexname": "San Marcos-Blanco Cemetery",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010318.0,
+        "utm_north": 3309980.0,
+        "loc_desc": "from Post Rd./Lime Kiln Rd. intersection (San Marcos) take Post Rd. N approx. 2 miles",
+        "title": "San Marcos-Blanco Cemetery",
+        "county": "Hays",
+        "utm_east": 605394.0,
+        "comments": "Job # 21396",
+        "year": 1997.0,
+        "markernum": 10318,
+        "markertext_1": "In 1893 five trustees of the newly formed San Marcos and Blanco Cemetery Association purchased 10.62 acres of land from w. O. and Leonora Hutchison. The trustees were Henry Richardson, Luckey McQueen, Wyatt Newman, James Langdon and Miles Bowes. The land purchased was intended for use as a cemetery by the African American citizens of the communities of Nance's Mill and Mountain City, together known as the Blanco community. The graveyard site was located midway between the two communities.\r\n     The earliest recorded burial was that of Emma Hamilton in August 1886, indicating the land was in use as a graveyard prior to the land purchase. The site was called the San Marcos Colored Cemetery. More than 300 graves are marked with headstones and exist along with numerous unmarked graves. among those buried here are teachers, farmers and ministers. The site has also been used as a paupers' burial ground and was sometimes referred to as the paupers' plot. In 1981 the name was officially changed to the San Marcos Community Cemetery and in 1996 the original name was restored to the san Marcos-Blanco Cemetery. The site is still active and is maintained by the cemetery association. (1997)",
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.89894458588833,
+          29.85533810448939
+        ]
+      },
+      "type": "Feature",
+      "id": 78,
+      "properties": {
+        "city": "San Marcos",
+        "code": "CY",
+        "indexname": "San Marcos",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010319.0,
+        "utm_north": 3303264.0,
+        "loc_desc": "from (IH-35) take RR 621 SE approx. 2.6 miles to Old Bastrop Rd. (CR 266); then NE on bastrop rd. approx. 1.3 miles",
+        "title": "Site of the First Town of San Marcos",
+        "county": "Hays",
+        "utm_east": 606352.0,
+        "repaircom": "Poor",
+        "markertext_1": "Known officially as Villa de San Marcos de Neve. Established in 1807 by Mexican settlers. The population on January 6, 1808 was 81. A flood in 1808 and subsequent Indian raids led to its abandonment in 1812.",
+        "year": 1936.0,
+        "markernum": 10319,
+        "size": "1936 Centennial - Subject Marker (gray granite)"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.95682819777056,
+          29.888854154369056
+        ]
+      },
+      "type": "Feature",
+      "id": 79,
+      "properties": {
+        "city": "San Marcos",
+        "code": "GY",
+        "indexname": "San Marcos Cemetery",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010320.0,
+        "utm_north": 3306926.0,
+        "loc_desc": "from Courthouse take RR 12 N approx. 1.2 miles",
+        "title": "San Marcos Cemetery",
+        "county": "Hays",
+        "utm_east": 600727.0,
+        "comments": "Job # 32892",
+        "year": 1993.0,
+        "markernum": 10320,
+        "markertext_1": "This cemetery lies within the Mexican land grant acquired by Thomas J. Chambers in 1834. Chambers died in 1865 and in 1867 his widow, Abbey, sold 3,000 acres containing this site to H. N. Duble at an estate sale held in Galveston. A portion of the cemetery site was purchased by Freedman Peter Roberts in Galveston in 1868. Local tradition suggests that slaves of the area's earliest settlers were buried here prior to the first recorded burial, that of Major C. Rogers in 1876.\r\n     The San Marcos Cemetery Association was organized in 1876 by Edward Burleson Jr., L. w. Mitchell, W. J. Joyce, E. P. Raynolds, Wallace Carnahan and W. O. Hutchison. That year the association bought 10 acres here from Judy Covington Dixon and her husband, Shadrach Dixon.\r\n     By 1924 the cemetery acreage had increased to more than 20 acres due to land acquisitions from: H. S. and Laura Jane Harvey in 1890; W. O. Hutchison in 1892; Dock and Sarah Roberts in 1902; Beverly Hutchison in 1904; and Dock Roberts and John McGehee in 1908. San Marcos acquired the cemetery in 1924 and in 1964 a perpetual care trust fund was created by private citizens.\r\n     Interred here are many pioneer settlers, War of 1812 veteran Louis Lawshe, and veterans of other conflicts ranging from the Texas Revolution (1835-36) to Vietnam.",
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.95770944865752,
+          29.88676754905241
+        ]
+      },
+      "type": "Feature",
+      "id": 80,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BE; CG; GY",
+        "indexname": "San Marcos Cemetry Chapel",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010321.0,
+        "utm_north": 3306694.0,
+        "loc_desc": "from Courthouse take RR 12 approx. 1.2 miles north (chapel near center rear section of San Marcos Cemetery)",
+        "title": "Cemetery Chapel",
+        "county": "Hays",
+        "utm_east": 600644.0,
+        "comments": "Job # 05790",
+        "year": 1973.0,
+        "markernum": 10321,
+        "markertext_1": "This cemetery is located on a ten-acre tract of land sold by Judy and Shadrach Dixon to the San Marcos Cemetery Association in 1876. Built about 1890, this carpenter Gothic chapel has been the scene of many funerals and memorial services over the years, including those of Civil War, Spanish American War, and world War I veterans. Of board and batten construction, it features a cruciform plan and Gothic arched openings.\r\n\r\nRecorded Texas Historic Landmark - 1973",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.93551850902607,
+          29.889568290906997
+        ]
+      },
+      "type": "Feature",
+      "id": 81,
+      "properties": {
+        "city": "San Marcos",
+        "code": "MS",
+        "indexname": "San Marcos Mill Tract",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010323.0,
+        "utm_north": 3307024.0,
+        "title": "San Marcos Mill Tract",
+        "county": "Hays",
+        "utm_east": 602784.0,
+        "repaircom": "Fair",
+        "comments": "Job # 8735",
+        "year": 1986.0,
+        "markernum": 10323,
+        "markertext_1": "Located on land that was granted to Juan M. de Veramendi in 1831, this tract was purchased by edward Burleson (1793-1851) in 1844. A native of North Carolina, burleson moved to Texas in 1830, settling first in Bastrop county. He commanded forces at the battle of San Jacinto and later participated in the Cherokee War in East Texas. He served as congressman, senator, and vice-president of the Republic of Texas, but was defeated by Anson Jones in a bid for presidency.  Later, when Texas became a state, he served in both the House of Representatives and Senate.\r\n     Burleson moved his family to the valley of the San Marcos River in the late 1840s. Here he built the first dam on the river to provide power for a grist mill and sawmill. What became known in later land transactions as the \"Mill Tract\" evolved into the center of commercial enterprise for the town of San Marcos. following Burleson's early operation, a cotton gin, three ice factories, a water works, and an electric plant were built in the area.\r\n     San Marcos early industrial park continued to have a steady economic impact on the town for over a century. Although no longer an industrial site, the Mill Tract is a reminder of the area's rich history.\r\n\r\nTexas Sesquicentennial 1836 - 1986",
+        "address": "100 Sessom Dr.",
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.93698124119308,
+          29.888352824089182
+        ]
+      },
+      "type": "Feature",
+      "id": 82,
+      "properties": {
+        "city": "San Marcos",
+        "code": "FM",
+        "indexname": "San Marcos National Fish Hatchery",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010324.0,
+        "utm_north": 3306888.0,
+        "loc_desc": "south end of walkway to the main Administration Building amongst the old fish ponds",
+        "title": "Site of San Marcos National Fish Hatchery",
+        "county": "Hays",
+        "utm_east": 602644.0,
+        "repaircom": "Poor; Refinish",
+        "markertext_1": "(First Federal fish hatchery in Texas)  Established in 1893 on the 25-acre tract known as the W. D. Wood place. In early years the fish produced here were used to stock streams and ponds for sport purposes. Later this site became a pilot plant for testing new techniques of hatchery production. Here too, the tropical South African fish \"tilapia\" was bred in an effort to introduce non-native fish suitable for game fishing into the United States.\r\n     At the time hatchery was built, cost of site was $4,500. Plant tied for fifth place in order of Federal hatcheries founded in the U.S. A water supply dam was finished in 1895 and an artesian well in 1896.\r\n     In recent years this hatchery stocked largemouth black bass, bluegill, sunfish, and channel catfish in 15 ponds on 44 acres of land. Fish from these ponds were distributed to waters under supervision of the Federal government, while state hatcheries stocked state waters. Both state and national governments cooperated to supply private ponds free of charge.\r\n     This facility closed in 1965 because operation was no longer economical and because the surrounding city made expansion of the plant impossible.\r\n     Today there are 90 national fish hatcheries in the nation. Texas has 4 Federal and 13 state hatcheries.",
+        "year": 1968.0,
+        "markernum": 10324,
+        "address": "SWTSU Campus",
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.92943583208263,
+          29.894761994408963
+        ]
+      },
+      "type": "Feature",
+      "id": 83,
+      "properties": {
+        "city": "San Marcos",
+        "code": "SM; WA",
+        "indexname": "San Marcos Springs",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010325.0,
+        "utm_north": 3307605.0,
+        "title": "San Marcos Springs",
+        "county": "Hays",
+        "utm_east": 603366.0,
+        "repaircom": "Fair",
+        "markertext_1": "Pouring forth millions of gallons of clear, icy water daily, these springs feed the san Marcos River and the 1,380-square-mile area which it drains. The immense springs rise at the Balcones Escarpment, a geologic fault line which slices across the state, separating upland from lowland Texas.\r\n     The abundance of fresh water made these springs a mecca for the Indians who inhabited Central Texas and later for the European explorers and settlers who followed. The name San Marcos was first given to a Texas River by the Alonso de Leon Expedition on April 26, 1689 (Saint Mark's Day). The name was not applied to the present river, however, until 1709. Other explorers inspected this area and in 1755 it became a temporary site for several Spanish missions.\r\n     Almost a century later, in 1845, pioneers William W. Moon and Mike Sessom made a permanent settlement here. In 1851 Gen. Edward Burleson, william Lindsey, and Eli t. Merriman bought the adjacent land and on it laid out the town of San Marcos.\r\n     Attracted by the scenic beauty of the area, A. B. Rogers started a park here in 1926. Over the years it has been developed into \"Aquarena Springs,\" one of Central Texas' most popular tourist attractions.",
+        "year": 1971.0,
+        "markernum": 10325,
+        "address": "Aquarena Springs Park",
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.94921036468527,
+          29.876611296706564
+        ]
+      },
+      "type": "Feature",
+      "id": 84,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH; FS; ON",
+        "indexname": "Sanders-Grosgebauer Huse",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010326.0,
+        "utm_north": 3305576.0,
+        "title": "Sanders-Grosgebauer House",
+        "county": "Hays",
+        "utm_east": 601475.0,
+        "comments": "Structure in very good condition.\r\nJob # 9228",
+        "year": 1992.0,
+        "markernum": 10326,
+        "markertext_1": "Built on historic San Antonio Street (originally the stagecoach road to San Antonio) by S. H. and Annie Sanders about 1913, this  house was subsequently purchased by Albert N. and Rosa Grosgebauer in 1919. Lyndon B. Johnson was frequently a dinner guest here during his stay at the local college. This house represents a good example of an American foursquare design. Although a common house design in the early 1900s, it was rarely used by San Marcos homebuilders.\r\n\r\nRecorded Texas Historic Landmark - 1992",
+        "address": "827 W. San Antonio",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.09605188617908,
+          29.996880527481032
+        ]
+      },
+      "type": "Feature",
+      "id": 85,
+      "properties": {
+        "city": "Wimberley",
+        "code": "CV; ED; OL",
+        "indexname": "Saunders, John Henry",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010327.0,
+        "utm_north": 3318783.0,
+        "loc_desc": "Square",
+        "title": "John Henry Saunders Homestead",
+        "county": "Hays",
+        "utm_east": 587189.0,
+        "repaircom": "Fair",
+        "comments": "Job # 8690",
+        "year": 1986.0,
+        "markernum": 10327,
+        "markertext_1": "Born in Virginia, John Henry Saunders (1850-1919) served in the Confederate Cavalry and came to Texas in 1870, via Tennessee and Indian Territory. He was the first teacher at Purgatory Springs (later called Hugo) where he married Calladonia Modeline Williamson (1855-1930) in 1872. He built a store west of this house, and served twice as Wimberley postmaster between 1890 and 1907; as county commissioner; and as the first county school superintendent from 1907 to 1916. the Saunders lived in this c. 1870 house from 1888 to 1907, then moved to San Marcos. The house exhibits c. 1930 alterations.\r\n\r\nTexas Sesquicentennial 1836 - 1986",
+        "address": "14000-B Old Kyle Rd.",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.91949200919849,
+          29.901629353907367
+        ]
+      },
+      "type": "Feature",
+      "id": 86,
+      "properties": {
+        "city": "San Marcos",
+        "code": "WA",
+        "indexname": "Sink Springs",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010328.0,
+        "utm_north": 3308375.0,
+        "title": "Sink Springs",
+        "county": "Hays",
+        "utm_east": 604319.0,
+        "comments": "Job # 10491",
+        "year": 1991.0,
+        "markernum": 10328,
+        "markertext_1": "An important element in the development of San Marcos, the Sink Springs are a part of a system of springs in the area which feed the San Marcos River. The flow of the springs is forced by artesian pressure through the San Marcos fault. Since the late 19th century the Sink Springs, located on land once owned by Republic of Texas pioneers Thomas Jefferson Chambers and Edward Burleson, have provided water for a variety of purposes, including residential use, the irrigation of commercial farms, and the operation of a woolen mill and a dairy.",
+        "address": "145 Spring Rd.",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.95078451938853,
+          29.881532883079874
+        ]
+      },
+      "type": "Feature",
+      "id": 87,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH; OL; OS",
+        "indexname": "Storey, James Gray",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010329.0,
+        "utm_north": 3306120.0,
+        "title": "Old Storey Home",
+        "county": "Hays",
+        "utm_east": 601318.0,
+        "repaircom": "Fair",
+        "comments": "Job # 3212",
+        "year": 1970.0,
+        "markernum": 10329,
+        "markertext_1": "Erected by James Gray Storey (1830-1911), noted citizen of Hays County. He served as district clerk 1856-61; captain Co. A, 32nd Texas Cavalry, Civil War; county judge 1865-67; member of State Legislature 1880-83; was county clerk when he and wife Sarah built house, 1890.\r\n\r\nRecorded Texas Historic Landmark - 1970",
+        "address": "702 Burleson",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.95058068626074,
+          29.88023180512374
+        ]
+      },
+      "type": "Feature",
+      "id": 88,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH; VC",
+        "indexname": "Talmadge, George Henry",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010330.0,
+        "utm_north": 3305976.0,
+        "title": "George Henry Talmadge Home",
+        "county": "Hays",
+        "utm_east": 601339.0,
+        "comments": "Job # 5356",
+        "year": 1978.0,
+        "markernum": 10330,
+        "markertext_1": "A farmer from Illinois, George H. Talmadge (1840-1911) served in the Union Army during the Civil War. In 1888 he moved to San Marcos with his wife Lydia (1851-1900) and their children, including an adopted daughter orphaned by the Chicago fire. Talmadge, who was also a carpenter, built this Victorian house of cypress wood in 1889. Active in church and community affairs, Talmadge family members occupied this home for 86 years.\r\n\r\nRecorded Texas Historic Landmark - 1978",
+        "address": "802 Belvin St.",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.93153961012128,
+          29.867436392729893
+        ]
+      },
+      "type": "Feature",
+      "id": 89,
+      "properties": {
+        "city": "San Marcos",
+        "code": "ID; MS",
+        "indexname": "Thompson's Islands",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010331.0,
+        "utm_north": 3304575.0,
+        "loc_desc": "approx. 100' SW of the intersection of Cape St. and River Rd.",
+        "title": "Thompson's Islands",
+        "county": "Hays",
+        "utm_east": 603191.0,
+        "comments": "Job # 20593",
+        "year": 1994.0,
+        "markernum": 10331,
+        "markertext_1": "William A. Thompson brought his family and slaves to Texas from Louisiana in 1850. They established plantations in Caldwell and Hays counties. With slave labor, the family built a mill on the San Marcos River near this site. Construction and operation of the mill resulted in the creation of three land masses in the river channel which became known as Thompson's Islands. The land remained in the family for generations, and the mill, which provided power for local lumber operations and a cotton gin, became an important element in the area's economy.",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.09158830395769,
+          29.99863656459743
+        ]
+      },
+      "type": "Feature",
+      "id": 90,
+      "properties": {
+        "city": "Wimberley",
+        "code": "GY",
+        "indexname": "Wimberley Cemetery",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010336.0,
+        "utm_north": 3318981.0,
+        "loc_desc": "take Old Kyle Rd. east approx. .5 mi.",
+        "title": "The Century-Old Wimberley Cemetery",
+        "county": "Hays",
+        "utm_east": 587618.0,
+        "repaircom": "Poor; Refinish",
+        "comments": "Job # 5461",
+        "year": 1979.0,
+        "markernum": 10336,
+        "markertext_1": "This land was first patented to Amasa Turner in 1847. Settlers erected a log cabin here which served as a church and school facility. Worship services were conducted by circuit riders. In 1876 Melissa Wimberley, young daughter of Pleasant Wimberley, died and was buried on the church grounds. John H. and Callie Saunders bought the property in 1885 and gave one acre for a community cemetery. Later, additional land was given by the family of John R. Dobie. W. W. Moon (1814-1897), first permanent settler in Hays County, is buried here.",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.09843989746179,
+          29.996490820701634
+        ]
+      },
+      "type": "Feature",
+      "id": 91,
+      "properties": {
+        "city": "Wimberley",
+        "code": "MS",
+        "indexname": "Wimberley Mills",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010337.0,
+        "utm_north": 3318738.0,
+        "title": "Wimberley Mills",
+        "county": "Hays",
+        "utm_east": 586959.0,
+        "repaircom": "Fair",
+        "comments": "Job # 4004",
+        "year": 1974.0,
+        "markernum": 10337,
+        "markertext_1": "In 1848 William C. Winters (1809-64), a veteran of San Jacinto, came to this valley and built a grist mill and sawmill on Cypress Creek. A settlement called Winters' Mill soon emerged from the wilderness. After a flood destroyed the millhouse about 1856, winters moved to higher ground across the creek and built a new 2-story millhouse with a long millrace and tailrace. after Winters' death in 1864, his son-in-law John M. Cude operated the mill successfully and the village came to be called Cude's Mill.\r\n     Pleasant Wimberley (1823-1919) in 1874 bought the mill complex which included a stone flour mill, French buhrstone grist mill, sawmill, shingle mill, and a one-stand cotton gin, powered by a 21-inch turbine type waterwheel. The \"Wimberley Mills\" Post Office, opened in 1880, soon was renamed \"Wimberley.\"\r\n     A short supply of cypress wood in the early 1880s caused the shingle mill to close. In 1893 the flour mill shut down. Because of the diminishing flow of Cypress Creek, the operation was converted to steam power in 1900 and the millhouse was rebuilt in order to continue in operation.\r\n     The milling enterprise was abandoned in 1934, after over 85 years of service on Cypress Creek.",
+        "address": "RR 12 and River Rd.",
+        "size": "27\" x 42\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.95619900606746,
+          29.87767744975006
+        ]
+      },
+      "type": "Feature",
+      "id": 92,
+      "properties": {
+        "city": "San Marcos",
+        "code": "GE",
+        "indexname": "Wonder Cave",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010338.0,
+        "utm_north": 3305688.0,
+        "loc_desc": "corner of Prospect (1200 block) and Allen",
+        "title": "Wonder Cave",
+        "county": "Hays",
+        "utm_east": 600799.0,
+        "comments": "Job # 3606",
+        "year": 1972.0,
+        "markernum": 10338,
+        "markertext_1": "In Balcones Fault, created by prehistoric earth shift. Said to have been campsite of Indians and Spaniards, especially priests who planted anaqua trees in area. By legend, robber gangs in 1820s cached Camino Real booty here.\r\n     Discovered 1893 for Anglo-Texas by Mark A. and Elizabeth Burleson Bevers, after water well drill fell 158 feet at their home here.\r\n     This became first commercially opened cave in state about 1900 when W. S. Davis gave guided tours by candlelight; bought in 1916 for $50 and a gray horse by A. B. Rogers, who spent his lifetime in discovery and development.",
+        "size": "18\" x 28\""
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.95114148472963,
+          29.878097573150143
+        ]
+      },
+      "type": "Feature",
+      "id": 93,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BH; RV",
+        "indexname": "Wood, Ike",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010339.0,
+        "utm_north": 3305739.0,
+        "title": "The Ike Wood House",
+        "county": "Hays",
+        "utm_east": 601287.0,
+        "comments": "Structure in very good condition.\r\nJob # 5259",
+        "year": 1978.0,
+        "markernum": 10339,
+        "markertext_1": "After settling in San Marcos about 1886, I. W. (Ike) Wood (1866-1960) became a prominent merchant, banker, and civic leader. In 1888 he married Elizabeth Williamson (1869-1961). Wood hired local architect John Whaley (1853-1915) to construct this classical revival house in 1908. A row of massive Corinthian columns and a hanging second floor balcony dominate the structure's classical facade. The Wood family lived here for over 50 years.\r\n\r\nRecorded Texas Historic Landmark - 1978\r\n\r\nIncise in base: Restored by Mr. and Mrs. william H. Crook in 1962",
+        "address": "227 N. Mitchell",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.87513111907221,
+          29.98736368560577
+        ]
+      },
+      "type": "Feature",
+      "id": 94,
+      "properties": {
+        "city": "Kyle",
+        "code": "BC",
+        "indexname": "Young, D. A.",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209010340.0,
+        "utm_north": 3317917.0,
+        "title": "Old D. A. Young Building",
+        "county": "Hays",
+        "utm_east": 608509.0,
+        "repaircom": "Fair",
+        "comments": "Job # 2313",
+        "year": 1968.0,
+        "markernum": 10340,
+        "markertext_1": "First permanent store in Kyle. Builder, David Alexander Young (1841-1883), moved with parents to Texas from Tennessee, 1857. D. A. Young, one of 179 Hays County men in civil War, was wounded fighting in Woods' 32nd Cavalry.\r\n     When International & Great Northern Railway came into Kyle, Young and wife, Fannie Elizabeth, moved here from Mountain City.\r\n     This 1881 building was given to city of Kyle in 1936 by M. G. Michaelis, sr., early-day rancher.\r\n\r\nRecorded Texas Historic Landmark - 1968",
+        "address": "Miller and Burleson St.",
+        "size": "Medallion & Plate"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.94642106877865,
+          29.879936963377826
+        ]
+      },
+      "type": "Feature",
+      "id": 95,
+      "properties": {
+        "city": "San Marcos",
+        "code": "BE, PR, GC",
+        "indexname": "Cumberland Presbyterian Church (Fort Street Presbyterian Church)",
+        "utm_zone": 14.0,
+        "atlas_numb": 5209012730.0,
+        "utm_north": 3305947.0,
+        "loc_desc": "516 W. Hopkins",
+        "title": "Cumberland Presbyterian Church (Fort Street Presbyterian Church)",
+        "county": "Hays",
+        "utm_east": 601741.0,
+        "markertext_1": "Cumberland Presbyterian Church \r\n(Fort Street Presbyterian Church)\r\n\r\n An architectural landmark in San Marcos, this church building exhibits Classic elements of the Gothic Revival style in its pointed arch Gothic windows, with Queen Anne influences in the fish scale shingling and octagonal towers. Dating to at least 1901, it originally served the Cumberland Presbyterian Church, known as the Fort Street Presbyterian Church after 1910.  In the mid-20th century, the building was home to the First American Lutheran Church and then to the Pentecostal Holiness Church before its rehabilitation for office and residential space in the 1990s.\r\nRecorded Texas Historic Landmark - 2001",
+        "year": 2001.0,
+        "markernum": 12730,
+        "address": "516 W. Hopkins",
+        "size": "Medallion & Plate"
+      }
+    }
+  ]
+}
